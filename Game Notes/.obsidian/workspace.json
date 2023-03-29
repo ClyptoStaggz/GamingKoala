@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "e501a1105c2f2bf5",
+            "id": "b2401bb2f60c4c24",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -20,12 +20,12 @@
             }
           },
           {
-            "id": "b2401bb2f60c4c24",
+            "id": "f89120ed8e6a6781",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mechanic Breakdown/Test.md",
+                "file": "Git/Git Etiquette.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mechanic Breakdown/Test.md",
+                "file": "Git/Git Etiquette.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mechanic Breakdown/Test.md",
+                "file": "Git/Git Etiquette.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mechanic Breakdown/Test.md"
+                "file": "Git/Git Etiquette.md"
               }
             }
           }
@@ -159,11 +159,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7b8e38ed9bc29999",
+  "active": "f89120ed8e6a6781",
   "lastOpenFiles": [
-    "Untitled",
     "Main Story/Test.md",
+    "Git/Git Etiquette.md",
+    "Git",
+    "Untitled.canvas",
     "Mechanic Breakdown/Test.md",
+    "Storyboards",
     "Mechanic Breakdown",
     "Main Story"
   ]
