@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "ddd60e351e28c2b2",
+        "id": "32459b61b47d5574",
         "type": "tabs",
         "children": [
           {
-            "id": "b2401bb2f60c4c24",
+            "id": "1c01b175091974d1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Main Story/Test.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f89120ed8e6a6781",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Git/Git Etiquette.md",
+                "file": "Sentinels Rising/01_Overview.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -64,8 +51,8 @@
                 "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
-                "collapseAll": false,
-                "extraContext": false,
+                "collapseAll": true,
+                "extraContext": true,
                 "sortOrder": "alphabetical"
               }
             }
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Git/Git Etiquette.md",
+                "file": "Sentinels Rising/01_Overview.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Git/Git Etiquette.md",
+                "file": "Sentinels Rising/01_Overview.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Git/Git Etiquette.md"
+                "file": "Sentinels Rising/01_Overview.md"
               }
             }
           }
@@ -159,15 +146,44 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f89120ed8e6a6781",
+  "active": "1c01b175091974d1",
   "lastOpenFiles": [
-    "Main Story/Test.md",
-    "Git/Git Etiquette.md",
-    "Git",
-    "Untitled.canvas",
-    "Mechanic Breakdown/Test.md",
-    "Storyboards",
-    "Mechanic Breakdown",
-    "Main Story"
+    "Sentinels Rising/02_Tasking and Timelines.md",
+    "Sentinels Rising/03_Marketing.md",
+    "Sentinels Rising/05_Enemies/Adaptive Strategy.md",
+    "Sentinels Rising/01_Overview.md",
+    "Sentinels Rising/01_Main Story/Main Missions/Mission Breakdowns/00_Mission Breakdowns.md",
+    "Sentinels Rising/01_Main Story/Main Missions/Mission Breakdowns/01_Prologue - Lights Out.md",
+    "Sentinels Rising/01_Main Story/Main Missions/Mission Scripting/07_Act 6 - This is the Start.md",
+    "Sentinels Rising/01_Main Story/Main Missions/Mission Scripting/06_Act 5 - A New Tree.md",
+    "Sentinels Rising/01_Main Story/Main Missions/Mission Scripting/05_Act 4 - Can't Let Go.md",
+    "Sentinels Rising/01_Main Story/Main Missions/Mission Scripting/04_Act 3 - A Familiar Face.md",
+    "Sentinels Rising/01_Main Story/Main Missions/Mission Scripting/00_Mission Scripting.md",
+    "Sentinels Rising/01_Main Story/Main Missions/Mission Scripting/01_Prologue - Lights Out.md",
+    "Sentinels Rising/01_Main Story/Main Missions/Mission Scripting/02_Act 1- No Take-Backs.md",
+    "Sentinels Rising/01_Main Story/Main Missions/Mission Scripting/03_Act 2 - Introductions.md",
+    "Sentinels Rising/01_Main Story/Overview.md",
+    "Sentinels Rising/03_Feature Breakdown/04_Abilities & Usage/Abilities.md",
+    "Sentinels Rising/05_Enemies/Overshields.md",
+    "Sentinels Rising/05_Enemies/Nomadic Nature.md",
+    "Sentinels Rising/03_Feature Breakdown/03_Assimilation/Assimilation.md",
+    "Sentinels Rising/03_Feature Breakdown/02_Atom Driver System/Atom Driver System.md",
+    "Sentinels Rising/03_Feature Breakdown/09_Unblockable Attacks/Unblockable Attacks.md",
+    "Sentinels Rising/04_The Player/01_Overview.md",
+    "Sentinels Rising/05_Enemies/01_Overview.md",
+    "Sentinels Rising/03_Feature Breakdown/05_Threat Level System/Threat Level System.md",
+    "Sentinels Rising/02_World Building/Environment.md",
+    "Sentinels Rising/05_Enemies/Red Sector Enemies.md",
+    "Sentinels Rising/03_Feature Breakdown/09_Unblockable Attacks",
+    "Sentinels Rising/03_Feature Breakdown/05_Threat Level System",
+    "Sentinels Rising/03_Feature Breakdown/06_Ping",
+    "Sentinels Rising/03_Feature Breakdown/07_Inquisitive",
+    "Sentinels Rising/03_Feature Breakdown/04_Abilities & Usage",
+    "Sentinels Rising/03_Feature Breakdown/03_Assimilation",
+    "Sentinels Rising/03_Feature Breakdown/08_Sheild Integrity",
+    "Sentinels Rising/03_Feature Breakdown/01_Mechanics/04_Blocking",
+    "Sentinels Rising/03_Feature Breakdown/01_Mechanics/03_Light & Heavy Ranged Attacks",
+    "Sentinels Rising/03_Feature Breakdown/01_Mechanics/02_Light & Heavy Melee Attacks",
+    "Untitled.canvas"
   ]
 }
