@@ -1,3 +1,15 @@
+Generic block of text
+
+This should have everything that is attached to the player character. 
+Including;
+All the variables that are on the player (Health, stamina, defense, attack, etc.)
+Anything the player can **store**
+Anything the player can **use**
+How is progression of the player tracked? Experience added? Currency earned/spent?
+Link any features that the players will use
+
+---
+# Player Stats
 The player has a set of stats that correlate to a number of different systems in the game. The player can modify their base stats through ability ranking, gear, and weapons. 
 
 
