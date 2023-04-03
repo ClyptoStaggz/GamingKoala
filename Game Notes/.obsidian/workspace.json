@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "32459b61b47d5574",
+        "id": "ddd60e351e28c2b2",
         "type": "tabs",
         "children": [
           {
-            "id": "1c01b175091974d1",
+            "id": "f89120ed8e6a6781",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sentinels Rising/02_World Building/World Map/World Map.md",
+                "file": "Git/Git Etiquette.md",
                 "mode": "source",
                 "source": false
               }
@@ -51,8 +51,8 @@
                 "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
-                "collapseAll": true,
-                "extraContext": true,
+                "collapseAll": false,
+                "extraContext": false,
                 "sortOrder": "alphabetical"
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sentinels Rising/02_World Building/World Map/World Map.md",
+                "file": "Git/Git Etiquette.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sentinels Rising/02_World Building/World Map/World Map.md",
+                "file": "Git/Git Etiquette.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sentinels Rising/02_World Building/World Map/World Map.md"
+                "file": "Git/Git Etiquette.md"
               }
             }
           }
@@ -146,62 +146,62 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1c01b175091974d1",
+  "active": "f89120ed8e6a6781",
   "lastOpenFiles": [
-    "Sentinels Rising/02_World Building/World Map/07_Purple Sector.canvas",
-    "Sentinels Rising/99_Files/Map Images/SR_Map_PurpleSector_Info.png",
-    "Sentinels Rising/02_World Building/World Map/06_Yellow Sector.canvas",
-    "Sentinels Rising/99_Files/Map Images/SR_Map_YellowSector_Info.png",
-    "Sentinels Rising/02_World Building/World Map/05_White Sector.canvas",
-    "Sentinels Rising/99_Files/Map Images/SR_Map_WhiteSector_Info.png",
-    "Sentinels Rising/02_World Building/World Map/04_Blue Sector.canvas",
-    "Sentinels Rising/99_Files/Map Images/SR_Map_BlueSector_Info.png",
-    "Sentinels Rising/02_World Building/World Map/03_Red Sector.canvas",
-    "Sentinels Rising/99_Files/Map Images/SR_Map_RedSector_Info.png",
-    "Sentinels Rising/02_World Building/World Map/02_Nexus.canvas",
-    "Sentinels Rising/99_Files/Map Images/SR_Map_Nexus_Info.png",
-    "Pasted image 20230330223647.png",
     "Sentinels Rising/02_World Building/World Map/01_World Building.canvas",
-    "Sentinels Rising/02_World Building/World Map/World Map.md",
-    "Sentinels Rising/04_The Player/Player Accessories, Gear, & Skills.canvas",
-    "Sentinels Rising/02_World Building/World Map",
-    "Sentinels Rising/99_Files/Hit Effects/SR_HitEffects.png",
-    "Sentinels Rising/99_Files/Abilities, Skills, & Talents/SR_AST_Talents.png",
-    "Sentinels Rising/03_Feature Breakdown/04_Abilities & Usage/Abilities.canvas",
-    "Sentinels Rising/99_Files/Abilities, Skills, & Talents/SR_AST_Abilities.png",
-    "Sentinels Rising/03_Feature Breakdown/01_Mechanics/02_Light & Heavy Melee Attacks/Melee Weapons & Attacks.canvas",
-    "Sentinels Rising/99_Files/Hit Effects",
-    "Sentinels Rising/99_Files/Abilities, Skills, & Talents",
-    "Sentinels Rising/03_Feature Breakdown/04_Abilities & Usage/Abilities.md",
-    "Sentinels Rising/04_The Player/Player Stats.md",
-    "Sentinels Rising/99_Files/Armor/Accessories",
-    "Sentinels Rising/99_Files/Armor/Gear",
-    "Sentinels Rising/99_Files/Armor",
+    "Trello",
+    "Sentinels Rising/02_World Building/World Map/02_Nexus.canvas",
+    "Sentinels Rising/02_World Building/World Map/03_Red Sector.canvas",
+    "Sentinels Rising/01_Main Story/Main Missions/Mission Breakdowns/01_Prologue - Lights Out.md",
+    "Sentinels Rising/01_Main Story/Main Missions/Mission Breakdowns/00_Mission Breakdowns.md",
+    "Git/Basic Git Commands.md",
+    "Sentinels Rising/01_Main Story/FTUE/First-Time User Experience.md",
+    "Sentinels Rising/01_Main Story/Overview.md",
+    "Sentinels Rising/01_Main Story/Main Missions/Mission Scripting/00_Mission Scripting.md",
+    "Sentinels Rising/03_Marketing.md",
+    "Sentinels Rising/02_Tasking and Timelines.md",
+    "Sentinels Rising/01_Overview.md",
+    "Git/Git Etiquette.md",
+    "Sentinels Rising/99_Files/Weapons/Ranged/SR_Weapons_Table_Ranged.png",
+    "Sentinels Rising/99_Files/Weapons/Ranged/SR_Weapons_Ranged.png",
+    "Sentinels Rising/99_Files/Weapons/Melee/SR_Weapons_Table_Melee.png",
+    "Sentinels Rising/99_Files/Weapons/Melee/SR_Weapons_Melee.png",
+    "Sentinels Rising/99_Files/Armor/Gear/SR_Armor_Gear.png",
+    "Sentinels Rising/99_Files/Armor/Accessories/SR_Armor_Accessories.png",
     "Sentinels Rising/99_Files/Weapons/Ranged",
     "Sentinels Rising/99_Files/Weapons/Melee",
+    "Sentinels Rising/99_Files/Map Images/SR_Map_YellowSector_Info.png",
+    "Sentinels Rising/99_Files/Map Images/SR_Map_YellowSector.png",
+    "Sentinels Rising/99_Files/Map Images/SR_Map_WhiteSector_Info.png",
+    "Sentinels Rising/99_Files/Map Images/SR_Map_WorldMap.png",
+    "Sentinels Rising/99_Files/Armor/Gear",
+    "Sentinels Rising/99_Files/Armor/Accessories",
     "Sentinels Rising/99_Files/Weapons",
+    "Sentinels Rising/99_Files/Map Images",
+    "Sentinels Rising/99_Files/Hit Effects",
+    "Sentinels Rising/99_Files/Armor",
+    "Sentinels Rising/99_Files/Abilities, Skills, & Talents",
+    "Sentinels Rising/05_Enemies/Red Sector Enemies.md",
+    "Sentinels Rising/05_Enemies/Overshields.md",
+    "Sentinels Rising/05_Enemies/Adaptive Strategy.md",
+    "Sentinels Rising/05_Enemies/01_Overview.md",
+    "Sentinels Rising/04_The Player/Player Stats.md",
+    "Sentinels Rising/04_The Player/Player Accessories, Gear, & Skills.canvas",
+    "Sentinels Rising/04_The Player/01_Overview.md",
+    "Sentinels Rising/03_Feature Breakdown/01_Mechanics/04_Blocking/Blocking.md",
+    "Sentinels Rising/03_Feature Breakdown/01_Mechanics/03_Light & Heavy Ranged Attacks/Ranged Weapons & Attacks.canvas",
+    "Sentinels Rising/03_Feature Breakdown/01_Mechanics/03_Light & Heavy Ranged Attacks/Light & Heavy Ranged Attacks.md",
+    "Sentinels Rising/03_Feature Breakdown/01_Mechanics/02_Light & Heavy Melee Attacks/Melee Weapons & Attacks.canvas",
     "Sentinels Rising/03_Feature Breakdown/01_Mechanics/02_Light & Heavy Melee Attacks/Light & Heavy Melee Attacks.md",
     "Sentinels Rising/03_Feature Breakdown/01_Mechanics/01_Player Movement/Player Movement.md",
-    "Sentinels Rising/03_Feature Breakdown/05_Threat Level System/Threat Level System.md",
-    "Sentinels Rising/03_Feature Breakdown/06_Ping/Ping.md",
-    "Sentinels Rising/03_Feature Breakdown/Feature Breakdown.md",
-    "Sentinels Rising/03_Feature Breakdown/01_Mechanics/Mechanics.md",
-    "Sentinels Rising/01_Overview.md",
-    "Sentinels Rising/03_Feature Breakdown/03_Assimilation/Assimilation.md",
-    "Sentinels Rising/02_Tasking and Timelines.md",
+    "Sentinels Rising/03_Feature Breakdown/09_Unblockable Attacks/Unblockable Attacks.md",
     "Sentinels Rising/03_Feature Breakdown/08_Sheild Integrity/Shield Integrity.md",
-    "Sentinels Rising/03_Feature Breakdown/01_Mechanics/04_Blocking/Blocking.md",
-    "Sentinels Rising/99_Files/Map Images",
-    "Sentinels Rising/03_Marketing.md",
-    "Sentinels Rising/05_Enemies/Adaptive Strategy.md",
-    "Sentinels Rising/01_Main Story/Main Missions/Mission Breakdowns/00_Mission Breakdowns.md",
-    "Sentinels Rising/01_Main Story/Main Missions/Mission Breakdowns/01_Prologue - Lights Out.md",
-    "Sentinels Rising/01_Main Story/Main Missions/Mission Scripting/07_Act 6 - This is the Start.md",
-    "Sentinels Rising/01_Main Story/Main Missions/Mission Scripting/06_Act 5 - A New Tree.md",
-    "Sentinels Rising/01_Main Story/Main Missions/Mission Scripting/05_Act 4 - Can't Let Go.md",
-    "Sentinels Rising/01_Main Story/Main Missions/Mission Scripting/04_Act 3 - A Familiar Face.md",
-    "Sentinels Rising/01_Main Story/Main Missions/Mission Scripting/00_Mission Scripting.md",
-    "Sentinels Rising/01_Main Story/Main Missions/Mission Scripting/01_Prologue - Lights Out.md",
-    "Sentinels Rising/01_Main Story/Main Missions/Mission Scripting/02_Act 1- No Take-Backs.md"
+    "Sentinels Rising/03_Feature Breakdown/07_Inquisitive/Inquisitive.md",
+    "Sentinels Rising/03_Feature Breakdown/05_Threat Level System/Threat Level System.md",
+    "Sentinels Rising/03_Feature Breakdown/02_Atom Driver System/Atom Driver System.md",
+    "Sentinels Rising/03_Feature Breakdown/04_Abilities & Usage/Abilities.canvas",
+    "Sentinels Rising/02_World Building/World Map/07_Purple Sector.canvas",
+    "Sentinels Rising/02_World Building/World Map/06_Yellow Sector.canvas",
+    "Sentinels Rising/02_World Building/World Map/04_Blue Sector.canvas"
   ]
 }
