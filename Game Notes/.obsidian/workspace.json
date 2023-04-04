@@ -13,13 +13,15 @@
             "state": {
               "type": "markdown",
               "state": {
+
                 "file": "Git/Git Etiquette.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,6 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
+
                 "file": "Git/Git Etiquette.md",
                 "collapseAll": false,
                 "extraContext": false,
@@ -102,6 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+
                 "file": "Git/Git Etiquette.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
@@ -125,6 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
+
                 "file": "Git/Git Etiquette.md"
               }
             }
@@ -146,6 +151,7 @@
       "command-palette:Open command palette": false
     }
   },
+
   "active": "f89120ed8e6a6781",
   "lastOpenFiles": [
     "Sentinels Rising/02_World Building/World Map/01_World Building.canvas",
@@ -181,6 +187,7 @@
     "Sentinels Rising/99_Files/Hit Effects",
     "Sentinels Rising/99_Files/Armor",
     "Sentinels Rising/99_Files/Abilities, Skills, & Talents",
+
     "Sentinels Rising/05_Enemies/Red Sector Enemies.md",
     "Sentinels Rising/05_Enemies/Overshields.md",
     "Sentinels Rising/05_Enemies/Adaptive Strategy.md",
@@ -199,6 +206,7 @@
     "Sentinels Rising/03_Feature Breakdown/07_Inquisitive/Inquisitive.md",
     "Sentinels Rising/03_Feature Breakdown/05_Threat Level System/Threat Level System.md",
     "Sentinels Rising/03_Feature Breakdown/02_Atom Driver System/Atom Driver System.md",
+
     "Sentinels Rising/03_Feature Breakdown/04_Abilities & Usage/Abilities.canvas",
     "Sentinels Rising/02_World Building/World Map/07_Purple Sector.canvas",
     "Sentinels Rising/02_World Building/World Map/06_Yellow Sector.canvas",
