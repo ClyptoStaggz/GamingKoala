@@ -13,19 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sentinels Rising/01_Main Story/Main Missions/Mission Breakdowns/00_Mission Breakdowns.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3b15867fceb832f5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Git/Basic Git Commands.md",
+
+                "file": "Git/Git Etiquette.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +87,8 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Git/Basic Git Commands.md",
+
+                "file": "Git/Git Etiquette.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +105,8 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Git/Basic Git Commands.md",
+
+                "file": "Git/Git Etiquette.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +129,8 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Git/Basic Git Commands.md"
+
+                "file": "Git/Git Etiquette.md"
               }
             }
           }
@@ -159,14 +151,19 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3b15867fceb832f5",
+
+  "active": "f89120ed8e6a6781",
   "lastOpenFiles": [
-    "Git/Basic Git Commands.md",
+    "Sentinels Rising/02_World Building/World Map/01_World Building.canvas",
+    "Trello",
+    "Sentinels Rising/02_World Building/World Map/02_Nexus.canvas",
+    "Sentinels Rising/02_World Building/World Map/03_Red Sector.canvas",
+    "Sentinels Rising/01_Main Story/Main Missions/Mission Breakdowns/01_Prologue - Lights Out.md",
     "Sentinels Rising/01_Main Story/Main Missions/Mission Breakdowns/00_Mission Breakdowns.md",
+    "Git/Basic Git Commands.md",
     "Sentinels Rising/01_Main Story/FTUE/First-Time User Experience.md",
     "Sentinels Rising/01_Main Story/Overview.md",
     "Sentinels Rising/01_Main Story/Main Missions/Mission Scripting/00_Mission Scripting.md",
-    "Sentinels Rising/01_Main Story/Main Missions/Mission Breakdowns/01_Prologue - Lights Out.md",
     "Sentinels Rising/03_Marketing.md",
     "Sentinels Rising/02_Tasking and Timelines.md",
     "Sentinels Rising/01_Overview.md",
@@ -190,7 +187,7 @@
     "Sentinels Rising/99_Files/Hit Effects",
     "Sentinels Rising/99_Files/Armor",
     "Sentinels Rising/99_Files/Abilities, Skills, & Talents",
-    "Sentinels Rising/99_Files",
+
     "Sentinels Rising/05_Enemies/Red Sector Enemies.md",
     "Sentinels Rising/05_Enemies/Overshields.md",
     "Sentinels Rising/05_Enemies/Adaptive Strategy.md",
@@ -209,13 +206,10 @@
     "Sentinels Rising/03_Feature Breakdown/07_Inquisitive/Inquisitive.md",
     "Sentinels Rising/03_Feature Breakdown/05_Threat Level System/Threat Level System.md",
     "Sentinels Rising/03_Feature Breakdown/02_Atom Driver System/Atom Driver System.md",
-    "Sentinels Rising/03_Feature Breakdown/06_Ping/Ping.md",
+
     "Sentinels Rising/03_Feature Breakdown/04_Abilities & Usage/Abilities.canvas",
     "Sentinels Rising/02_World Building/World Map/07_Purple Sector.canvas",
     "Sentinels Rising/02_World Building/World Map/06_Yellow Sector.canvas",
-    "Sentinels Rising/02_World Building/World Map/04_Blue Sector.canvas",
-    "Sentinels Rising/02_World Building/World Map/05_White Sector.canvas",
-    "Sentinels Rising/02_World Building/World Map/03_Red Sector.canvas",
-    "Sentinels Rising/02_World Building/World Map/02_Nexus.canvas"
+    "Sentinels Rising/02_World Building/World Map/04_Blue Sector.canvas"
   ]
 }
