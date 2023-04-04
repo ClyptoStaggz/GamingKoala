@@ -4,95 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "32459b61b47d5574",
+        "id": "ddd60e351e28c2b2",
         "type": "tabs",
         "children": [
           {
-            "id": "73218c1192abae36",
+            "id": "f89120ed8e6a6781",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sentinels Rising/05_Weapons&Armor/Enemies Weapons & Armor/Red Sector W&A/Armor/Red Sector Armor Template.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "66cadb0e51bff153",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sentinels Rising/05_Weapons&Armor/Enemies Weapons & Armor/Red Sector W&A/Weapons/Red Sector Weapons Template.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e544a10284344188",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sentinels Rising/05_Weapons&Armor/Enemies Weapons & Armor/White Sector W&A/Armor/White Sector Armor Template.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b99c0386266e6d6e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sentinels Rising/05_Weapons&Armor/Enemies Weapons & Armor/White Sector W&A/Weapons/White Sector Weapons Template.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3442252e115e6e7e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sentinels Rising/05_Weapons&Armor/Enemies Weapons & Armor/Yellow Sector W&A/Armor/Yellow Sector Armor Template.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4c5fa228628f981f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sentinels Rising/03_Feature Breakdown/Feature Breakdown.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4421a5b3967f4986",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sentinels Rising/03_Feature Breakdown/Feature Breakdown.md",
+                "file": "Sentinels Rising/01_Overview.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 6
+        ]
       }
     ],
     "direction": "vertical"
@@ -124,8 +51,8 @@
                 "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
-                "collapseAll": true,
-                "extraContext": true,
+                "collapseAll": false,
+                "extraContext": false,
                 "sortOrder": "alphabetical"
               }
             }
@@ -158,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sentinels Rising/03_Feature Breakdown/Feature Breakdown.md",
+                "file": "Sentinels Rising/01_Overview.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -175,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sentinels Rising/03_Feature Breakdown/Feature Breakdown.md",
+                "file": "Sentinels Rising/01_Overview.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -198,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sentinels Rising/03_Feature Breakdown/Feature Breakdown.md"
+                "file": "Sentinels Rising/01_Overview.md"
               }
             }
           }
@@ -219,63 +146,63 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4421a5b3967f4986",
+  "active": "f89120ed8e6a6781",
   "lastOpenFiles": [
-    "Sentinels Rising/03_Feature Breakdown/10_Deconstructing Items/Deconstructing Items.md",
-    "Sentinels Rising/03_Feature Breakdown/Feature Breakdown.md",
-    "Sentinels Rising/03_Feature Breakdown/10_Deconstructing Items",
-    "Sentinels Rising/05_Weapons&Armor/Enemies Weapons & Armor/Enemies Weapons & Armor.canvas",
-    "Sentinels Rising/05_Weapons&Armor/Enemies Weapons & Armor/01_Enemies Weapons & Armor Overview.md",
-    "Sentinels Rising/05_Weapons&Armor/Enemies Weapons & Armor/Yellow Sector W&A/Weapons/Yellow Sector Weapons Template.md",
-    "Sentinels Rising/05_Weapons&Armor/Enemies Weapons & Armor/Yellow Sector W&A/Armor/Yellow Sector Armor Template.md",
-    "Sentinels Rising/05_Weapons&Armor/Enemies Weapons & Armor/White Sector W&A/Weapons/White Sector Weapons Template.md",
-    "Sentinels Rising/05_Weapons&Armor/Enemies Weapons & Armor/Yellow Sector W&A/Weapons",
-    "Sentinels Rising/05_Weapons&Armor/Enemies Weapons & Armor/Yellow Sector W&A/Armor",
-    "Sentinels Rising/05_Weapons&Armor/Enemies Weapons & Armor/White Sector W&A/Armor/White Sector Armor Template.md",
-    "Sentinels Rising/05_Weapons&Armor/Enemies Weapons & Armor/Red Sector W&A/Weapons/Red Sector Weapons Template.md",
-    "Sentinels Rising/05_Weapons&Armor/Enemies Weapons & Armor/White Sector W&A/Weapons",
-    "Sentinels Rising/05_Weapons&Armor/Enemies Weapons & Armor/White Sector W&A/Armor",
-    "Sentinels Rising/05_Weapons&Armor/Enemies Weapons & Armor/Red Sector W&A/Armor/Red Sector Armor Template.md",
-    "Sentinels Rising/05_Weapons&Armor/Enemies Weapons & Armor/Purple Sector W&A/Armor/Purple Sector Armor Template.md",
-    "Sentinels Rising/05_Weapons&Armor/Enemies Weapons & Armor/Red Sector W&A/Weapons",
-    "Sentinels Rising/05_Weapons&Armor/Enemies Weapons & Armor/Red Sector W&A/Armor",
-    "Sentinels Rising/05_Weapons&Armor/Enemies Weapons & Armor/Purple Sector W&A/Weapons/Purple Sector Weapons Template.md",
-    "Sentinels Rising/05_Weapons&Armor/Enemies Weapons & Armor/Blue Sector W&A/Blue Sector Weapons & Armor.canvas",
-    "Sentinels Rising/05_Weapons&Armor/Enemies Weapons & Armor/Purple Sector W&A/Purple Sector Weapons & Armor Template.md",
-    "Sentinels Rising/05_Weapons&Armor/Enemies Weapons & Armor/Purple Sector W&A/Weapons",
-    "Sentinels Rising/05_Weapons&Armor/Enemies Weapons & Armor/Purple Sector W&A/Armor",
-    "Sentinels Rising/05_Weapons&Armor/Enemies Weapons & Armor/Blue Sector W&A/Armor/Blue Sector Armor Template.md",
-    "Sentinels Rising/05_Weapons&Armor/Enemies Weapons & Armor/Blue Sector W&A/Weapons/Blue Sector Weapons Template.md",
-    "Sentinels Rising/05_Weapons&Armor/Enemies Weapons & Armor/Blue Sector W&A/Armor",
-    "Sentinels Rising/05_Weapons&Armor/Enemies Weapons & Armor/Yellow Sector W&A/Yellow Sector Weapons & Armor.canvas",
-    "Sentinels Rising/05_Weapons&Armor/Enemies Weapons & Armor/White Sector W&A/White Sector Weapons & Armor.canvas",
-    "Sentinels Rising/05_Weapons&Armor/Enemies Weapons & Armor/Red Sector W&A/Red Sector Weapons & Armor.canvas",
-    "Sentinels Rising/05_Weapons&Armor/Enemies Weapons & Armor/Purple Sector W&A/Purple Sector Weapons & Armor.canvas",
-    "Sentinels Rising/05_Weapons&Armor/Player Weapons & Armor/Player Weapons & Armor.canvas",
     "Sentinels Rising/99_Trash/96_The Player/Player Accessories, Gear, & Skills.canvas",
-    "Sentinels Rising/04_Stats/Player Stats/Player Character.canvas",
-    "Sentinels Rising/05_Weapons&Armor/Player Weapons & Armor/01_Player Weapons & Armor Overview.md",
-    "Sentinels Rising/04_Stats/Player Stats/01_Player Overview.md",
-    "Sentinels Rising/04_Stats/Enemy Stats/Base Enemies.canvas",
-    "Sentinels Rising/04_Stats/Enemy Stats/01_Enemy Overview.md",
+    "Sentinels Rising/99_Trash/96_Enemies/To Delete After 5 Commits.md",
     "Sentinels Rising/99_Trash/Overshields.md",
     "Sentinels Rising/99_Trash/Adaptive Strategy.md",
-    "Sentinels Rising/04_Stats/Enemy Stats/Yellow Sector Enemies/Enemies/Enemy Template.md",
-    "Sentinels Rising/04_Stats/Enemy Stats/White Sector Enemies/Enemies/Enemy Template.md",
-    "Sentinels Rising/04_Stats/Enemy Stats/Purple Sector Enemies/Enemies/Enemy Template.md",
-    "Sentinels Rising/04_Stats/Enemy Stats/Blue Sector Enemies/Enemies/Enemy Template.md",
-    "Sentinels Rising/04_Stats/Enemy Stats/Red Sector Enemies/Enemies/Red Sector - Mantis Creature.md",
-    "Sentinels Rising/04_Stats/Player Stats/Player Stats.md",
-    "Sentinels Rising/99_Trash/96_Enemies/To Delete After 5 Commits.md",
-    "Sentinels Rising/98_Files/Trello Images/Trello_Bosses&Mobs1.png",
-    "Sentinels Rising/98_Files/Trello Images/Trello_Bosses&Mobs99.png",
-    "Sentinels Rising/98_Files/Trello Images/Trello_Bosses&Mobs9.png",
+    "Sentinels Rising/99_Trash/96_The Player",
+    "Sentinels Rising/99_Trash/96_Enemies",
+    "Sentinels Rising/99_Trash",
+    "Sentinels Rising/98_Files/Weapons/Ranged/SR_Weapons_Table_Ranged.png",
+    "Sentinels Rising/98_Files/Weapons/Ranged/SR_Weapons_Ranged.png",
+    "Sentinels Rising/98_Files/Weapons/Melee/SR_Weapons_Table_Melee.png",
+    "Sentinels Rising/98_Files/Weapons/Melee/SR_Weapons_Melee.png",
+    "Sentinels Rising/98_Files/Armor/Gear/SR_Armor_Gear.png",
+    "Sentinels Rising/98_Files/Armor/Accessories/SR_Armor_Accessories.png",
+    "Sentinels Rising/98_Files/Map Images/SR_Map_YellowSector.png",
+    "Sentinels Rising/98_Files/Trello Images/Trello_BaseCharacter2.png",
     "Sentinels Rising/98_Files/Trello Images/Trello_Bosses&Mobs8.png",
-    "Sentinels Rising/98_Files/Trello Images/Trello_Bosses&Mobs7.png",
-    "Sentinels Rising/98_Files/Trello Images/Trello_Bosses&Mobs6.png",
-    "Sentinels Rising/98_Files/Trello Images/Trello_Bosses&Mobs5.png",
-    "Sentinels Rising/98_Files/Trello Images/Trello_Bosses&Mobs4.png",
-    "Sentinels Rising/98_Files/Trello Images/Trello_Bosses&Mobs3.png",
-    "Sentinels Rising/98_Files/Trello Images/Trello_Bosses&Mobs2.png"
+    "Sentinels Rising/98_Files/Weapons/Ranged",
+    "Sentinels Rising/98_Files/Weapons/Melee",
+    "Sentinels Rising/98_Files/Armor/Gear",
+    "Sentinels Rising/98_Files/Armor/Accessories",
+    "Sentinels Rising/98_Files/Trello Images/Trello_Æ System.png",
+    "Sentinels Rising/98_Files/Weapons",
+    "Sentinels Rising/98_Files/Armor",
+    "Sentinels Rising/98_Files/Trello Images",
+    "Sentinels Rising/97_Trello Files/Trello Archive/World Design/Home World Assignments.md",
+    "Sentinels Rising/97_Trello Files/Trello Archive/World Design/Overall Game Map.md",
+    "Sentinels Rising/97_Trello Files/Trello Archive/Player Art Board/Base Character.md",
+    "Sentinels Rising/97_Trello Files/Trello Archive/Systems/Æ System.md",
+    "Sentinels Rising/97_Trello Files/Trello Archive/Systems/Weapon System.md",
+    "Sentinels Rising/97_Trello Files/Trello Archive/Systems/Threat Level System (Player Stats).md",
+    "Sentinels Rising/97_Trello Files/Trello Archive/Systems/Skill Assimilation System.md",
+    "Sentinels Rising/97_Trello Files/Trello Archive/Systems/Environmental Mob System.md",
+    "Sentinels Rising/97_Trello Files/Trello Archive/Systems/Energy Core System.md",
+    "Sentinels Rising/97_Trello Files/Trello Archive/Systems/Combos.md",
+    "Sentinels Rising/97_Trello Files/Trello Archive/Systems/Combat System.md",
+    "Sentinels Rising/97_Trello Files/Trello Archive/Systems/Assimilation System.md",
+    "Sentinels Rising/97_Trello Files/Trello Archive/Core Game Loop/04_Upgrade Suit.md",
+    "Sentinels Rising/97_Trello Files/Trello Archive/Core Game Loop/03_Earn Rewards.md",
+    "Sentinels Rising/97_Trello Files/Trello Archive/Core Game Loop/02_Complete Objectives.md",
+    "Sentinels Rising/97_Trello Files/Trello Archive/Core Game Loop/01_What the player will do in the game.md",
+    "Sentinels Rising/97_Trello Files/Trello Archive/Boss and Mob Art Board/Bosses and Mobs.md",
+    "Sentinels Rising/97_Trello Files/Trello Archive/Abilities/Sword & Shield.md",
+    "Sentinels Rising/97_Trello Files/Trello Archive/Abilities/Spear Abilities.md",
+    "Sentinels Rising/97_Trello Files/Trello Archive/Abilities/Meteor Hammer.md",
+    "Sentinels Rising/97_Trello Files/Trello Archive/Abilities/Cleaver.md",
+    "Sentinels Rising/97_Trello Files/Trello Archive/Abilities/Bladed Tonfa.md",
+    "Sentinels Rising/97_Trello Files/Trello_Template.canvas",
+    "Sentinels Rising/05_Weapons&Armor/Enemies Weapons & Armor/Yellow Sector W&A/Yellow Sector Weapons & Armor.canvas",
+    "Sentinels Rising/05_Weapons&Armor/Enemies Weapons & Armor/Purple Sector W&A/Purple Sector Weapons & Armor.canvas",
+    "Sentinels Rising/05_Weapons&Armor/Enemies Weapons & Armor/White Sector W&A/White Sector Weapons & Armor.canvas",
+    "Sentinels Rising/05_Weapons&Armor/Enemies Weapons & Armor/Red Sector W&A/Red Sector Weapons & Armor.canvas",
+    "Sentinels Rising/05_Weapons&Armor/Enemies Weapons & Armor/Blue Sector W&A/Blue Sector Weapons & Armor.canvas",
+    "Sentinels Rising/05_Weapons&Armor/Player Weapons & Armor/Player Weapons & Armor.canvas",
+    "Sentinels Rising/05_Weapons&Armor/Enemies Weapons & Armor/Enemies Weapons & Armor.canvas",
+    "Sentinels Rising/04_Stats/Enemy Stats/Yellow Sector Enemies/Yellow Sector Enemies.canvas",
+    "Sentinels Rising/04_Stats/Enemy Stats/White Sector Enemies/White Sector Enemies.canvas"
   ]
 }
