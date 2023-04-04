@@ -14,6 +14,7 @@
               "type": "markdown",
               "state": {
 
+
                 "file": "Git/Git Etiquette.md",
                 "mode": "source",
                 "source": false
@@ -88,6 +89,7 @@
               "type": "backlink",
               "state": {
 
+
                 "file": "Git/Git Etiquette.md",
                 "collapseAll": false,
                 "extraContext": false,
@@ -105,6 +107,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+
 
                 "file": "Git/Git Etiquette.md",
                 "linksCollapsed": false,
@@ -130,6 +133,7 @@
               "type": "outline",
               "state": {
 
+
                 "file": "Git/Git Etiquette.md"
               }
             }
@@ -151,6 +155,7 @@
       "command-palette:Open command palette": false
     }
   },
+
 
   "active": "f89120ed8e6a6781",
   "lastOpenFiles": [
