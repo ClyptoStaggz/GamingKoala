@@ -397,4 +397,8 @@ FodyWeavers.xsd
 
 # JetBrains Rider
 *.sln.iml
-Game Notes/.obsidian/workspace.json
+
+# Obsidian
+Game Notes/.obsidian/*
+!Game Notes/.obsidian/core-plugins.json
+!Game Notes/.obsidian/community-plugins.json
