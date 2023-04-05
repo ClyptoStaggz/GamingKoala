@@ -4,25 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "ddd60e351e28c2b2",
+        "id": "92949b4f3d115fbd",
         "type": "tabs",
         "children": [
           {
-            "id": "f89120ed8e6a6781",
+            "id": "117821c5e08e8af5",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "kanban",
               "state": {
-
-
-                "file": "Git/Git Etiquette.md",
-                "mode": "source",
-                "source": false
+                "file": "Sentinels Rising/Tasking and Timelines/Tasking.md"
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -88,9 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-
-
-                "file": "Git/Git Etiquette.md",
+                "file": "Sentinels Rising/Tasking and Timelines/Tasking.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,9 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-
-
-                "file": "Git/Git Etiquette.md",
+                "file": "Sentinels Rising/Tasking and Timelines/Tasking.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,9 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-
-
-                "file": "Git/Git Etiquette.md"
+                "file": "Sentinels Rising/Tasking and Timelines/Tasking.md"
               }
             }
           }
@@ -155,10 +144,18 @@
       "command-palette:Open command palette": false
     }
   },
-
-
-  "active": "f89120ed8e6a6781",
+  "active": "117821c5e08e8af5",
   "lastOpenFiles": [
+    "Sentinels Rising/Tasking and Timelines/Task Archive/Task 4.md",
+    "Sentinels Rising/Tasking and Timelines/Tasking.md",
+    "Sentinels Rising/Tasking and Timelines/Task Archive/Task 3.md",
+    "Sentinels Rising/Tasking and Timelines/02_Tasking and Timelines.md",
+    "Sentinels Rising/Tasking and Timelines/Task Archive/Task 2.md",
+    "Sentinels Rising/Tasking and Timelines/Task Archive",
+    "Sentinels Rising/Tasking and Timelines",
+    "2023-04-04.md",
+    "Sentinels Rising/01_Overview.md",
+    "Git/Git Etiquette.md",
     "Sentinels Rising/02_World Building/World Map/01_World Building.canvas",
     "Trello",
     "Sentinels Rising/02_World Building/World Map/02_Nexus.canvas",
@@ -170,9 +167,6 @@
     "Sentinels Rising/01_Main Story/Overview.md",
     "Sentinels Rising/01_Main Story/Main Missions/Mission Scripting/00_Mission Scripting.md",
     "Sentinels Rising/03_Marketing.md",
-    "Sentinels Rising/02_Tasking and Timelines.md",
-    "Sentinels Rising/01_Overview.md",
-    "Git/Git Etiquette.md",
     "Sentinels Rising/99_Files/Weapons/Ranged/SR_Weapons_Table_Ranged.png",
     "Sentinels Rising/99_Files/Weapons/Ranged/SR_Weapons_Ranged.png",
     "Sentinels Rising/99_Files/Weapons/Melee/SR_Weapons_Table_Melee.png",
@@ -190,9 +184,6 @@
     "Sentinels Rising/99_Files/Weapons",
     "Sentinels Rising/99_Files/Map Images",
     "Sentinels Rising/99_Files/Hit Effects",
-    "Sentinels Rising/99_Files/Armor",
-    "Sentinels Rising/99_Files/Abilities, Skills, & Talents",
-
     "Sentinels Rising/05_Enemies/Red Sector Enemies.md",
     "Sentinels Rising/05_Enemies/Overshields.md",
     "Sentinels Rising/05_Enemies/Adaptive Strategy.md",
@@ -207,11 +198,6 @@
     "Sentinels Rising/03_Feature Breakdown/01_Mechanics/02_Light & Heavy Melee Attacks/Light & Heavy Melee Attacks.md",
     "Sentinels Rising/03_Feature Breakdown/01_Mechanics/01_Player Movement/Player Movement.md",
     "Sentinels Rising/03_Feature Breakdown/09_Unblockable Attacks/Unblockable Attacks.md",
-    "Sentinels Rising/03_Feature Breakdown/08_Sheild Integrity/Shield Integrity.md",
-    "Sentinels Rising/03_Feature Breakdown/07_Inquisitive/Inquisitive.md",
-    "Sentinels Rising/03_Feature Breakdown/05_Threat Level System/Threat Level System.md",
-    "Sentinels Rising/03_Feature Breakdown/02_Atom Driver System/Atom Driver System.md",
-
     "Sentinels Rising/03_Feature Breakdown/04_Abilities & Usage/Abilities.canvas",
     "Sentinels Rising/02_World Building/World Map/07_Purple Sector.canvas",
     "Sentinels Rising/02_World Building/World Map/06_Yellow Sector.canvas",
