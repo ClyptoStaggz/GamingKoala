@@ -11,9 +11,11 @@
             "id": "117821c5e08e8af5",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "Sentinels Rising/Tasking and Timelines/Tasking.md"
+                "file": "Sentinels Rising/03_Feature Breakdown/01_Mechanics/Mechanics.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -83,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sentinels Rising/Tasking and Timelines/Tasking.md",
+                "file": "Sentinels Rising/03_Feature Breakdown/01_Mechanics/Mechanics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sentinels Rising/Tasking and Timelines/Tasking.md",
+                "file": "Sentinels Rising/03_Feature Breakdown/01_Mechanics/Mechanics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sentinels Rising/Tasking and Timelines/Tasking.md"
+                "file": "Sentinels Rising/03_Feature Breakdown/01_Mechanics/Mechanics.md"
               }
             }
           }
@@ -146,27 +148,31 @@
   },
   "active": "117821c5e08e8af5",
   "lastOpenFiles": [
-    "Sentinels Rising/Tasking and Timelines/Task Archive/Task 4.md",
+    "Sentinels Rising/05_Weapons&Armor/Enemies Weapons & Armor/Blue Sector W&A/Armor/Blue Sector Armor Template.md",
+    "Sentinels Rising/05_Weapons&Armor/Enemies Weapons & Armor/Blue Sector W&A/Weapons/Blue Sector Weapons Template.md",
+    "Sentinels Rising/05_Weapons&Armor/Enemies Weapons & Armor/Blue Sector W&A/Blue Sector Weapons & Armor.canvas",
+    "Git/Git Etiquette.md",
+    "Git/Basic Git Commands.md",
+    "Sentinels Rising/99_Trash/96_The Player/Player Accessories, Gear, & Skills.canvas",
+    "Sentinels Rising/03_Marketing.md",
+    "Sentinels Rising/01_Overview.md",
     "Sentinels Rising/Tasking and Timelines/Tasking.md",
+    "Sentinels Rising/Tasking and Timelines/Task Archive/Task 4.md",
     "Sentinels Rising/Tasking and Timelines/Task Archive/Task 3.md",
     "Sentinels Rising/Tasking and Timelines/02_Tasking and Timelines.md",
     "Sentinels Rising/Tasking and Timelines/Task Archive/Task 2.md",
     "Sentinels Rising/Tasking and Timelines/Task Archive",
     "Sentinels Rising/Tasking and Timelines",
     "2023-04-04.md",
-    "Sentinels Rising/01_Overview.md",
-    "Git/Git Etiquette.md",
     "Sentinels Rising/02_World Building/World Map/01_World Building.canvas",
     "Trello",
     "Sentinels Rising/02_World Building/World Map/02_Nexus.canvas",
     "Sentinels Rising/02_World Building/World Map/03_Red Sector.canvas",
     "Sentinels Rising/01_Main Story/Main Missions/Mission Breakdowns/01_Prologue - Lights Out.md",
     "Sentinels Rising/01_Main Story/Main Missions/Mission Breakdowns/00_Mission Breakdowns.md",
-    "Git/Basic Git Commands.md",
     "Sentinels Rising/01_Main Story/FTUE/First-Time User Experience.md",
     "Sentinels Rising/01_Main Story/Overview.md",
     "Sentinels Rising/01_Main Story/Main Missions/Mission Scripting/00_Mission Scripting.md",
-    "Sentinels Rising/03_Marketing.md",
     "Sentinels Rising/99_Files/Weapons/Ranged/SR_Weapons_Table_Ranged.png",
     "Sentinels Rising/99_Files/Weapons/Ranged/SR_Weapons_Ranged.png",
     "Sentinels Rising/99_Files/Weapons/Melee/SR_Weapons_Table_Melee.png",
@@ -196,11 +202,7 @@
     "Sentinels Rising/03_Feature Breakdown/01_Mechanics/03_Light & Heavy Ranged Attacks/Light & Heavy Ranged Attacks.md",
     "Sentinels Rising/03_Feature Breakdown/01_Mechanics/02_Light & Heavy Melee Attacks/Melee Weapons & Attacks.canvas",
     "Sentinels Rising/03_Feature Breakdown/01_Mechanics/02_Light & Heavy Melee Attacks/Light & Heavy Melee Attacks.md",
-    "Sentinels Rising/03_Feature Breakdown/01_Mechanics/01_Player Movement/Player Movement.md",
-    "Sentinels Rising/03_Feature Breakdown/09_Unblockable Attacks/Unblockable Attacks.md",
     "Sentinels Rising/03_Feature Breakdown/04_Abilities & Usage/Abilities.canvas",
-    "Sentinels Rising/02_World Building/World Map/07_Purple Sector.canvas",
-    "Sentinels Rising/02_World Building/World Map/06_Yellow Sector.canvas",
-    "Sentinels Rising/02_World Building/World Map/04_Blue Sector.canvas"
+    "Sentinels Rising/02_World Building/World Map/07_Purple Sector.canvas"
   ]
 }
