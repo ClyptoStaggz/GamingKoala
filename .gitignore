@@ -399,6 +399,6 @@ FodyWeavers.xsd
 *.sln.iml
 
 # Obsidian
-Game Notes/.obsidian/*
-!Game Notes/.obsidian/core-plugins.json
-!Game Notes/.obsidian/community-plugins.json
+GameNotes/.obsidian/*
+!GameNotes/.obsidian/core-plugins.json
+!GameNotes/.obsidian/community-plugins.json
