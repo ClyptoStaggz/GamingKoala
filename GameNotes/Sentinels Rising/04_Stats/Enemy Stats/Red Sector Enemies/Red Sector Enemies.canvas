@@ -1,1 +1,7 @@
-{}
+{
+	"nodes":[
+		{"type":"file","file":"Sentinels Rising/04_Stats/Enemy Stats/Red Sector Enemies/Enemies/Red Sector - Mantis Creature.md","id":"e14c510c3d6f5b31","x":-440,"y":-340,"width":660,"height":500},
+		{"id":"7ee51e5ae428d157","x":320,"y":-200,"width":250,"height":110,"type":"text","text":"*Add Image*"}
+	],
+	"edges":[]
+}
