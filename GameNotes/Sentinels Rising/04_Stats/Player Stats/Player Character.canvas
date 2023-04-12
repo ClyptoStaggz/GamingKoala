@@ -4,7 +4,12 @@
 		{"type":"file","file":"Sentinels Rising/98_Files/Abilities, Skills, & Talents/SR_AST_Talents.png","id":"b411ff06a412f86a","x":-200,"y":-307,"width":400,"height":773},
 		{"type":"file","file":"Sentinels Rising/98_Files/Hit Effects/SR_HitEffects.png","id":"2b36cba9261f9610","x":-200,"y":493,"width":399,"height":295},
 		{"type":"file","file":"Sentinels Rising/98_Files/Stats/PlayerStats/SR_Stats_BasePlayerStats.png","id":"40704ba0c18df5af","x":240,"y":-427,"width":669,"height":307},
-		{"type":"file","file":"Sentinels Rising/98_Files/Stats/PlayerStats/SR_Stats_BasePlayer_AbilityPointAllocation.png","id":"ad46d56581094778","x":240,"y":-100,"width":669,"height":413}
+		{"type":"file","file":"Sentinels Rising/98_Files/Stats/PlayerStats/SR_Stats_BasePlayer_AbilityPointAllocation.png","id":"ad46d56581094778","x":240,"y":-100,"width":669,"height":413},
+		{"type":"file","file":"Sentinels Rising/04_Stats/Player Stats/06_Kinematics.md","id":"698b5a7e4c3f33d3","x":1000,"y":-63,"width":400,"height":376},
+		{"type":"file","file":"Sentinels Rising/04_Stats/Player Stats/07_Reconstruction.md","id":"ad81a9801c4efcc6","x":1000,"y":340,"width":400,"height":360},
+		{"type":"file","file":"Sentinels Rising/04_Stats/Player Stats/08_Tenacity.md","id":"d491f8091de95f7b","x":1000,"y":740,"width":400,"height":340},
+		{"type":"file","file":"Sentinels Rising/04_Stats/Player Stats/09_Potential.md","id":"c0e16b66a34ba5fd","x":1000,"y":1120,"width":400,"height":380},
+		{"type":"file","file":"Sentinels Rising/04_Stats/Player Stats/05_Musculature.md","id":"bcac6a30a0145748","x":1000,"y":-427,"width":400,"height":340}
 	],
 	"edges":[]
 }

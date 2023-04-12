@@ -1,7 +1,7 @@
 Ranged Damage: 
-
-
 To interface this system with a ranged weapon system, you would need to assign a base damage value to each ranged weapon in the game. Let's say we have a basic bow that has a base damage of 5.
+
+![[SR_Stats_RangedWeaponStats.png]]
 
 Then, when a player uses the pistol to attack an enemy, the damage dealt would be calculated using the ranged damage formula we established earlier, which is:
 

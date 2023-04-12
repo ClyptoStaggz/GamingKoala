@@ -1,5 +1,3 @@
-Generic block of text
-
 This should have everything that is attached to the player character. 
 Including;
 All the variables that are on the player (Health, stamina, defense, attack, etc.)
@@ -9,12 +7,19 @@ How is progression of the player tracked? Experience added? Currency earned/spen
 Link any features that the players will use
 
 ---
+Critical %, Parry Chance, Swing Speed, Attack Multiplier (Melee; Musculature, Kinematics. Ranged; Kinematics, Potential)
+
+---
 # Player Stats
 The player has a set of stats that correlate to a number of different systems in the game. The player can modify their base stats through ability ranking, gear, and weapons. 
-Stats will be 0-11 or 12 'notches' on the player UI. These will be modifiers to base stats (Ranged or Melee) to within combat. The average starting player will be 3 on this scale. They will have 22 pts. to create their character from. 
+![[SR_AST_Abilities_FlowChart.png]]
+
+Stats will be 0-11 or 12 'notches' on the player UI. These will be modifiers to base stats (Ranged or Melee) to within combat. The average starting player will be 3 on this scale. They will have 22 pts.  to create their character from. 
+%%If we give the player 22 extra points, on top of 3 in each category, they will be able to max out 3 other categories in from the Character Creation Menu%%
 The average character starts with 3 points in each attribute, and has an additional 7 points to allocate at character creation, that means the character can have up to 10 points in any given attribute, since 3 + 7 = 10.
 ![[SR_Stats_BasePlayer_AbilityPointAllocation.png|450]]
 This gives the player some flexibility in creating their character, allowing them to specialize in one or two attributes while still having a decent amount of competency in the others. It's also worth noting that characters who focus heavily on one attribute may be more vulnerable in other areas, so there's a trade-off to consider.
+%%See my above comment, we're allowing the player to have too much power without much progression from the beginning. Decrease the number of points we allow the player to allocate during the Character Creation Phase%%
 
 ### Musculature
 This stat represents the player's raw physical power and ability to deal devastating melee attacks. A high musculature stat means that the player can hit harder and break through enemy defenses more easily.
