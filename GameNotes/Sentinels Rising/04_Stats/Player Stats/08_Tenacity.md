@@ -1,0 +1,2 @@
+This stat determines how much damage the player can withstand before taking serious harm. A high tenacity stat means the player can absorb more damage and continue fighting, while a low tenacity stat means they must be more careful and strategic in their approach.
+This attribute is on a scale of 0-11, where 0 represents a character who can't take much damage and 11 represents a character who is very difficult to take down.

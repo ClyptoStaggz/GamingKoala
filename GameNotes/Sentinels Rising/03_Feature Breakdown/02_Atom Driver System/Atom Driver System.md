@@ -5,6 +5,12 @@ What will be needed to create the mechanic (functions, actors, variables, etc.)
 
 ## Overview
 The player will be able to enter and exit this movement mode while Sprinting, using either a controller's LeftTrigger or Shift on the keyboard. In order to initiate the ADS, the player will need to hold down either button for 3 seconds. After the ADS is active, they can release the button, maintaining the ADS mode.
+*No leveling up, upgrades*
+
+Player ADS
+	Smoother, emphisis on the give/take that the Arkai do
+Enemy ADS
+	More agressive/explossive, emphisis on the *take* that the Parasite does
 
 
 ## Initialize
