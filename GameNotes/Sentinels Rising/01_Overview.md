@@ -16,7 +16,7 @@ The player will have multiple decisions on how they want to engage the enemy, th
 Every mechanic, story, and gameplay decision needs to ask the questions, “Does this adhere to any of the design pillars?” and “If the game doesn’t have this feature, would it be the same?”
 
 #### Action Packed
-- Real-Time Combat
+- Real-Time Combat 
 - Unique Abilities
 - Wide Range of Combat Options
 

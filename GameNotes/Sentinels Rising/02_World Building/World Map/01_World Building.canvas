@@ -7,7 +7,6 @@
 		{"type":"file","file":"Sentinels Rising/98_Files/Map Images/SR_Map_BlueSector.png","id":"cf4e17fd4a596e67","x":-4160,"y":-2240,"width":3105,"height":3062},
 		{"type":"file","file":"Sentinels Rising/98_Files/Map Images/SR_Map_Nexus.png","id":"3e40f54dbe24b984","x":727,"y":-1280,"width":2640,"height":2886},
 		{"type":"file","file":"Sentinels Rising/98_Files/Map Images/SR_Map_WorldMap.png","id":"4e7a5fdc69dc29df","x":-1629,"y":-11520,"width":7351,"height":6080}
-
 	],
 	"edges":[]
 }

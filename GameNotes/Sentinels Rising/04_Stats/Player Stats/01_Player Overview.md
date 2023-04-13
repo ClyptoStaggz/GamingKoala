@@ -30,7 +30,7 @@ This stat encompasses the player's agility, speed, and jumping ability. A high k
 This attribute is on a scale of 0-11, where 0 represents a character who is slow, clumsy, and not very agile, and 11 represents a character who is incredibly fast, agile, and capable of impressive acrobatics.
 
 ### Reconstruction
-This stat represents how quickly the player can recover from damage. A high reconstruction stat means the player's health and shield regenerate quickly, allowing them to stay in the fight longer.
+This stat represents how quickly the player can recover from damage. A high reconstruction stat means the player's health and shield regenerate quickly, allowing them to stay in the fight longer. Weapon ammunition is also governed by this stat as the suit will regenerate the new magazine for a 'reload' time/effect. 
 This attribute is on a scale of 0-11 as well, where 0 represents a character who takes a long time to recover from injuries and 11 represents a character who regenerates health and shields very quickly.
 
 ### Tenacity
