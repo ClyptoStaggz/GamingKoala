@@ -19,6 +19,7 @@ Bladed Tonfa
 Meteor Hammer [Whip + Mace]
 Cleaver
 Spear
+Escrima Sticks
 
 Ranged:
 Rifle

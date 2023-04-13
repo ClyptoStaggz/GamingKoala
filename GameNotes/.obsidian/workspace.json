@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sentinels Rising/04_Stats/Player Stats/01_Player Overview.md",
+                "file": "Sentinels Rising/04_Stats/Enemy Stats/01_Enemy Overview.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 367.5
   },
   "right": {
     "id": "09996f95d10ec0c5",
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sentinels Rising/04_Stats/Player Stats/01_Player Overview.md",
+                "file": "Sentinels Rising/04_Stats/Enemy Stats/01_Enemy Overview.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sentinels Rising/04_Stats/Player Stats/01_Player Overview.md",
+                "file": "Sentinels Rising/04_Stats/Enemy Stats/01_Enemy Overview.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sentinels Rising/04_Stats/Player Stats/01_Player Overview.md"
+                "file": "Sentinels Rising/04_Stats/Enemy Stats/01_Enemy Overview.md"
               }
             }
           }
@@ -148,53 +148,54 @@
   },
   "active": "68e4bf5d50cf7f52",
   "lastOpenFiles": [
+    "Sentinels Rising/05_Weapons&Armor/Enemies Weapons & Armor/Red Sector W&A/Pasted image 20230412223723.png",
+    "Sentinels Rising/04_Stats/Enemy Stats/Blue Sector Enemies/Enemies/Enemy Template.md",
+    "Sentinels Rising/05_Weapons&Armor/Enemies Weapons & Armor/Red Sector W&A/Pasted image 20230412223646.png",
+    "Sentinels Rising/04_Stats/Enemy Stats/Red Sector Enemies/Red Sector Enemies.canvas",
+    "Sentinels Rising/04_Stats/Enemy Stats/Red Sector Enemies/Enemies/Red Sector - Mantis Creature.md",
+    "Sentinels Rising/98_Files/Abilities, Skills, & Talents/movement.gif",
+    "Sentinels Rising/98_Files/Abilities, Skills, & Talents/Sprint Keyframe.png",
+    "Sentinels Rising/98_Files/Abilities, Skills, & Talents/Evade_Dash.png",
+    "Sentinels Rising/98_Files/Abilities, Skills, & Talents/ranged deflection.gif",
     "Sentinels Rising/05_Weapons&Armor/Player Weapons & Armor/MeleeWeapons/MeleeWeaponStats.md",
+    "Sentinels Rising/03_Feature Breakdown/01_Player Actions/Melee Weapons & Attacks.canvas",
+    "Sentinels Rising/03_Feature Breakdown/01_Player Actions/Light & Heavy Melee Attacks.md",
+    "Sentinels Rising/02_World Building/World Map/06_Yellow Sector.canvas",
+    "Sentinels Rising/03_Feature Breakdown/02_Atom Driver System/Atom Driver System.md",
+    "Sentinels Rising/03_Feature Breakdown/07_Sheild Integrity/Shield Integrity.md",
+    "Sentinels Rising/03_Feature Breakdown/01_Player Actions/02_Blocking -.md",
+    "Sentinels Rising/03_Feature Breakdown/01_Player Actions/01_Player Movement.md",
+    "Sentinels Rising/03_Feature Breakdown/01_Player Actions/Primary & Charged Ranged Attacks.md",
+    "Sentinels Rising/03_Feature Breakdown/01_Player Actions/Ranged Weapons & Attacks.canvas",
     "Sentinels Rising/04_Stats/Player Stats/01_Player Overview.md",
+    "Sentinels Rising/98_Files/Trello Images/Trelloo_Combo.png",
+    "Sentinels Rising/04_Stats/Player Stats/07_Reconstruction.md",
+    "Sentinels Rising/04_Stats/Player Stats/02_PlayerHealth.md",
+    "Sentinels Rising/04_Stats/Player Stats/03_PlayerStamina.md",
+    "Sentinels Rising/02_World Building/Culture.md",
+    "Sentinels Rising/02_World Building/Language.md",
+    "Sentinels Rising/02_World Building/History.md",
+    "Sentinels Rising/02_World Building/Environment.md",
+    "Sentinels Rising/02_World Building/World Map/01_World Building.canvas",
+    "Sentinels Rising/04_Stats/Player Stats/Player Character.canvas",
+    "Untitled",
+    "Sentinels Rising/03_Feature Breakdown/01_Player Actions/Mechanics.md",
+    "Sentinels Rising/98_Files/Trello Images/Trello_WorldDesign.png",
+    "Sentinels Rising/98_Files/Trello Images/Trello_WeaponSystem.png",
+    "Sentinels Rising/98_Files/Trello Images/Trello_WeaponSystem_Info.png",
+    "Sentinels Rising/98_Files/Trello Images/Trello_S&SAbilities.png",
+    "Sentinels Rising/97_Trello Files/Trello Archive/Systems/Weapon System.md",
+    "Sentinels Rising/97_Trello Files/Trello Archive/World Design/Overall Game Map.md",
+    "Sentinels Rising/01_Overview.md",
+    "Sentinels Rising/Tasking and Timelines/02_Tasking and Timelines.md",
     "Sentinels Rising/05_Weapons&Armor/Player Weapons & Armor/RangedWeapons/RangedWeaponStats.md",
     "Sentinels Rising/04_Stats/Player Stats/09_Potential.md",
     "Sentinels Rising/04_Stats/Player Stats/08_Tenacity.md",
-    "Sentinels Rising/04_Stats/Player Stats/07_Reconstruction.md",
-    "Sentinels Rising/04_Stats/Player Stats/06_Kinematics.md",
-    "Sentinels Rising/03_Feature Breakdown/02_Atom Driver System/Atom Driver System.md",
-    "Sentinels Rising/04_Stats/Player Stats/05_Musculature.md",
-    "Sentinels Rising/03_Feature Breakdown/01_Mechanics/01_Player Movement/Player Movement.md",
-    "Sentinels Rising/03_Feature Breakdown/05_Threat Level System/Ping.md",
-    "Sentinels Rising/01_Main Story/Overview.md",
-    "Sentinels Rising/04_Stats/Player Stats/Player Character.canvas",
-    "Sentinels Rising/03_Feature Breakdown/Feature Breakdown.md",
     "Sentinels Rising/05_Weapons&Armor/Player Weapons & Armor/Player Weapons & Armor.canvas",
-    "Sentinels Rising/Tasking and Timelines/02_Tasking and Timelines.md",
     "Sentinels Rising/05_Weapons&Armor/Player Weapons & Armor/MeleeWeapons",
-    "Sentinels Rising/99_Trash/Adaptive Strategy.md",
-    "SR_.md",
-    "Sentinels Rising/98_Files/Abilities, Skills, & Talents/SR_AST_Abilities_FlowChart.png",
-    "Sentinels Rising/05_Weapons&Armor/Player Weapons & Armor/RangedWeapons/AssaultRifle/Assault Rifle.md",
-    "Sentinels Rising/05_Weapons&Armor/Player Weapons & Armor/RangedWeapons/AssaultRifle/ExampleWeapon_Ranged.md",
     "Sentinels Rising/03_Feature Breakdown/04_Abilities & Usage/Abilities.canvas",
-    "Sentinels Rising/04_Stats/Player Stats/03_PlayerStamina.md",
-    "Sentinels Rising/04_Stats/Player Stats/02_PlayerHealth.md",
-    "Sentinels Rising/04_Stats/Player Stats/04_PlayerAenimaPool.md",
-    "Sentinels Rising/97_Trello Files/Trello Archive/Abilities/Bladed Tonfa.md",
-    "Sentinels Rising/03_Feature Breakdown/04_Abilities & Usage/Ability Buildup & Activation.md",
-    "Sentinels Rising/03_Feature Breakdown/04_Abilities & Usage/Abilities.md",
-    "Sentinels Rising/98_Files/Stats/PlayerStats/SR_Stats_BasePlayer_AbilityPointAllocation.png",
-    "Sentinels Rising/04_Stats/Enemy Stats/01_Enemy Overview.md",
     "Sentinels Rising/04_Stats/Enemy Stats/Base Enemies.canvas",
-    "Sentinels Rising/04_Stats/Enemy Stats/Red Sector Enemies/Red Sector Enemies.canvas",
-    "Sentinels Rising/04_Stats/Enemy Stats/Red Sector Enemies/Enemies/Red Sector - Mantis Creature.md",
     "Sentinels Rising/04_Stats/Enemy Stats/Purple Sector Enemies/Purple Sector Enemies.canvas",
-    "Sentinels Rising/05_Weapons&Armor/Enemies Weapons & Armor/Red Sector W&A/Red Sector Weapons & Armor.canvas",
-    "Sentinels Rising/05_Weapons&Armor/Player Weapons & Armor/RangedWeapons/AssaultRifle/RangedWeapon_AssaultRifle.canvas",
-    "Sentinels Rising/05_Weapons&Armor/Player Weapons & Armor/RangedWeapons/Pistol/RangedWeapon_Pistol.canvas",
-    "Sentinels Rising/98_Files/Weapons/Ranged/SR_Weapons_Ranged.png",
-    "Sentinels Rising/98_Files/Weapons/Ranged/SR_Weapons_Table_Ranged.png",
-    "Sentinels Rising/98_Files/Weapons/Ranged/ExampleWeapon_Temporary_NotPermanent.png",
-    "Sentinels Rising/05_Weapons&Armor/Enemies Weapons & Armor/Enemies Weapons & Armor.canvas",
-    "Sentinels Rising/98_Files/Trello Images/Trello_WeaponSystem.png",
-    "Sentinels Rising/98_Files/Trello Images/Trello_WeaponSystem_Info.png",
-    "Sentinels Rising/98_Files/Stats/Weapons/SR_Stats_RangedWeaponStats_Pistol.png",
-    "Sentinels Rising/98_Files/Stats/Weapons/SR_Stats_RangedWeaponStats_AssaultRifle.png",
-    "Sentinels Rising/98_Files/Stats/Weapons/SR_Stats_RangedWeaponStats.png",
     "Sentinels Rising/05_Weapons&Armor/Player Weapons & Armor/RangedWeapons/Pistol",
     "Sentinels Rising/05_Weapons&Armor/Player Weapons & Armor/RangedWeapons/AssaultRifle",
     "Sentinels Rising/05_Weapons&Armor/Player Weapons & Armor/MeleeWeapons",
