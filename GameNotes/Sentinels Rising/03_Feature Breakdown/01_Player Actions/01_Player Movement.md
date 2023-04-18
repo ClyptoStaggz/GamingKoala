@@ -1,6 +1,8 @@
 What will be needed to create the mechanic (functions, actors, variables, etc.)
 (If applicable) Storyboard the mechanic, buttons used, etc.
 
+How does this feature reflect the pillars? 
+
 
 ## Player Movement
 The player will be able to maneuver in all 8 directions using either a controller's LeftThumbstick or WASD on the keyboard. The player will strafe in all 8 directions. The player will be able to rotate their point of view by using a controller’s RightThumbstick or MouseAxisInput X/Y for the keyboard.
