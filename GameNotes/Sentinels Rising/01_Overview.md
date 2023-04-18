@@ -24,8 +24,8 @@ Every mechanic, story, and gameplay decision needs to ask the questions, “Does
 - Can absorb and learn abilities through assimilation
 - Enemies learn about your strategies and adapt
 
-#### Letting Go
-- Story pivots around the main characters' struggle
+#### Give/Take
+- Features will revolve around the theme of giving and taking. 
 
 
 
