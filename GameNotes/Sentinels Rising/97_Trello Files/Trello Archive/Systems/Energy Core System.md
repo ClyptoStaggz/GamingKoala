@@ -16,6 +16,7 @@ Each core has a set of ultimate abilities the players will be able to unleash. J
 - Passive
 
 #### **Electro**
+Speed, Agility, Teleportation
 - Offensive
 - Defensive
 - Passive
@@ -26,6 +27,7 @@ Each core has a set of ultimate abilities the players will be able to unleash. J
 - Passive
 
 #### **Necro**
+Reanimate or Drain of Energy
 - Offensive
 - Defensive
 - Passive

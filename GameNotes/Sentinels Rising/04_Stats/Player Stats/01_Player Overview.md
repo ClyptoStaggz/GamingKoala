@@ -8,6 +8,7 @@ Link any features that the players will use
 
 ---
 Critical %, Parry Chance, Swing Speed, Attack Multiplier (Melee; Musculature, Kinematics. Ranged; Kinematics, Potential)
+Accuracy, Critical Damage, Damage, Recoil, Stability, Fire Rate, Magazine Size, Reload Speed, Penetration, Movement Speed
 
 ---
 # Player Stats

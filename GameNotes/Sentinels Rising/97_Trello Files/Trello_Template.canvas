@@ -11,7 +11,7 @@
 		{"type":"file","file":"Sentinels Rising/97_Trello Files/Trello Archive/Systems/Combos.md","id":"e462792914738230","x":200,"y":420,"width":400,"height":140},
 		{"type":"file","file":"Sentinels Rising/97_Trello Files/Trello Archive/Systems/Æ System.md","id":"799f67207ae72075","x":200,"y":600,"width":400,"height":180},
 		{"type":"file","file":"Sentinels Rising/97_Trello Files/Trello Archive/Systems/Threat Level System (Player Stats).md","id":"55401a25f38d419b","x":200,"y":820,"width":400,"height":180},
-		{"type":"file","file":"Sentinels Rising/97_Trello Files/Trello Archive/Systems/Energy Core System.md","id":"ba88dbdeeab2aef3","x":200,"y":1040,"width":400,"height":60},
+		{"type":"file","file":"Sentinels Rising/97_Trello Files/Trello Archive/Systems/Energy Core System.md","id":"ba88dbdeeab2aef3","x":200,"y":1040,"width":400,"height":100},
 		{"type":"file","file":"Sentinels Rising/97_Trello Files/Trello Archive/Systems/Skill Assimilation System.md","id":"65f9dd90630cb181","x":200,"y":1140,"width":400,"height":160},
 		{"type":"file","file":"Sentinels Rising/97_Trello Files/Trello Archive/Systems/Assimilation System.md","id":"251c6dc204933846","x":200,"y":1340,"width":400,"height":180},
 		{"type":"file","file":"Sentinels Rising/97_Trello Files/Trello Archive/Systems/Environmental Mob System.md","id":"cd35b226c31dbeb1","x":200,"y":1560,"width":400,"height":160},
@@ -27,7 +27,7 @@
 		{"type":"file","file":"Sentinels Rising/97_Trello Files/Trello Archive/Abilities/Cleaver.md","id":"21fc145b85618b26","x":1112,"y":760,"width":376,"height":260},
 		{"type":"file","file":"Sentinels Rising/97_Trello Files/Trello Archive/Abilities/Spear Abilities.md","id":"d6cf29357edb67f1","x":1112,"y":1040,"width":376,"height":260},
 		{"type":"text","text":"# Boss/Mob Art Board","id":"7bbf03fd1a4333a2","x":1980,"y":-80,"width":400,"height":500,"color":"#525252"},
-		{"id":"fa7e58062a5db3e2","x":2000,"y":0,"width":360,"height":400,"type":"file","file":"Sentinels Rising/97_Trello Files/Trello Archive/Boss and Mob Art Board/Bosses and Mobs.md"}
+		{"type":"file","file":"Sentinels Rising/97_Trello Files/Trello Archive/Boss and Mob Art Board/Bosses and Mobs.md","id":"fa7e58062a5db3e2","x":2000,"y":0,"width":360,"height":400}
 	],
 	"edges":[]
 }

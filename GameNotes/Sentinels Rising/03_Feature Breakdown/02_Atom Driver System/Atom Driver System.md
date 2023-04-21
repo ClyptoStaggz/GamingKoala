@@ -10,6 +10,7 @@ Player ADS (right)
 
 Enemy ADS (left)
 	More agressive/explosive, emphasis on the *take* that the Parasite does
+	Storyboard on how the ground will "Heal" from tearing
 
 ![[Pasted image 20230417201641.png]]
 
