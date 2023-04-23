@@ -4,97 +4,9 @@
     "type": "split",
     "children": [
       {
-        "id": "bcb45f8493b22637",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "c265b771f72e6f94",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sentinels Rising/97_Trello Files/Trello Archive/Systems/Weapon System.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "fc73af0850c72107",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Sentinels Rising/04_Stats/Enemy Stats/Red Sector Enemies/Red Sector Enemies.canvas",
-                "viewState": {
-                  "x": -192.38078238001344,
-                  "y": -148.23891783427973,
-                  "zoom": 0.7741109452129056
-                }
-              }
-            }
-          },
-          {
-            "id": "4082ffe9e5cb118f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sentinels Rising/97_Trello Files/Trello Archive/Systems/Energy Core System.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d55617e9d41420a1",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Sentinels Rising/02_World Building/World Map/01_World Building.canvas",
-                "viewState": {
-                  "x": 1877.5,
-                  "y": 484,
-                  "zoom": -4
-                }
-              }
-            }
-          },
-          {
-            "id": "f307217b211118f2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sentinels Rising/03_Feature Breakdown/05_Threat Level System/Ping.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ],
-        "currentTab": 2
-      },
-      {
         "id": "dcf1e0c5fccdb47f",
         "type": "tabs",
         "children": [
-          {
-            "id": "68e4bf5d50cf7f52",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Sentinels Rising/03_Feature Breakdown/04_Abilities & Usage/Abilities.canvas",
-                "viewState": {
-                  "x": -45.34630594173706,
-                  "y": -194.1333077384188,
-                  "zoom": 0.3333333333333333
-                }
-              }
-            }
-          },
           {
             "id": "12d8b466f0e360bd",
             "type": "leaf",
@@ -103,41 +15,39 @@
               "state": {
                 "file": "Sentinels Rising/02_World Building/World Map/03_Red Sector.canvas",
                 "viewState": {
-                  "x": 151.24069399570118,
-                  "y": 39.32075901318893,
+                  "x": -19.75930600429882,
+                  "y": 285.32075901318893,
                   "zoom": 1.1102230246251565e-16
                 }
               }
             }
           },
           {
-            "id": "ff7394c10caadf48",
+            "id": "1dfed91d030001ce",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sentinels Rising/04_Stats/Player Stats/01_Player Overview.md",
+                "file": "Sentinels Rising/02_World Building/World Map/World Map.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "aae982f2d27519ae",
+            "id": "64f059ee549ea36e",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Sentinels Rising/04_Stats/Player Stats/Player Character.canvas",
-                "viewState": {
-                  "x": 3.923752672226456,
-                  "y": -63.292691182870186,
-                  "zoom": 0.3333333333333334
-                }
+                "file": "Sentinels Rising/02_World Building/World Map/Red Sector.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -203,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sentinels Rising/97_Trello Files/Trello Archive/Systems/Energy Core System.md",
+                "file": "Sentinels Rising/02_World Building/World Map/World Map.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -220,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sentinels Rising/97_Trello Files/Trello Archive/Systems/Energy Core System.md",
+                "file": "Sentinels Rising/02_World Building/World Map/World Map.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -243,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sentinels Rising/97_Trello Files/Trello Archive/Systems/Energy Core System.md"
+                "file": "Sentinels Rising/02_World Building/World Map/World Map.md"
               }
             }
           }
@@ -264,22 +174,23 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4082ffe9e5cb118f",
+  "active": "1dfed91d030001ce",
   "lastOpenFiles": [
-    "Sentinels Rising/97_Trello Files/Trello Archive/Systems/Weapon System.md",
+    "Sentinels Rising/02_World Building/World Map/01_World Building.canvas",
+    "Sentinels Rising/02_World Building/World Map/03_Red Sector.canvas",
+    "Sentinels Rising/02_World Building/World Map/Red Sector.md",
+    "Sentinels Rising/03_Feature Breakdown/05_Threat Level System/Ping.md",
     "Sentinels Rising/97_Trello Files/Trello Archive/Systems/Energy Core System.md",
+    "Sentinels Rising/04_Stats/Enemy Stats/Red Sector Enemies/Red Sector Enemies.canvas",
+    "Sentinels Rising/97_Trello Files/Trello Archive/Systems/Weapon System.md",
     "Sentinels Rising/01_Overview.md",
     "Sentinels Rising/05_Weapons&Armor/Player Weapons & Armor/MeleeWeapons/MeleeWeaponStats.md",
     "Sentinels Rising/03_Feature Breakdown/03_Assimilation/Assimilation.md",
     "Sentinels Rising/03_Feature Breakdown/04_Abilities & Usage/Abilities.canvas",
     "Sentinels Rising/04_Stats/Player Stats/Player Character.canvas",
     "Sentinels Rising/04_Stats/Player Stats/01_Player Overview.md",
-    "Sentinels Rising/02_World Building/World Map/01_World Building.canvas",
-    "Sentinels Rising/02_World Building/World Map/03_Red Sector.canvas",
-    "Sentinels Rising/04_Stats/Enemy Stats/Red Sector Enemies/Red Sector Enemies.canvas",
     "Sentinels Rising/97_Trello Files/Trello_Template.canvas",
     "Sentinels Rising/03_Feature Breakdown/04_Abilities & Usage/Abilities.md",
-    "Sentinels Rising/03_Feature Breakdown/05_Threat Level System/Ping.md",
     "Sentinels Rising/05_Weapons&Armor/Enemies Weapons & Armor/Red Sector W&A/Pasted image 20230412223723.png",
     "Sentinels Rising/05_Weapons&Armor/Enemies Weapons & Armor/Red Sector W&A/Pasted image 20230417200940.png",
     "Sentinels Rising/05_Weapons&Armor/Enemies Weapons & Armor/Red Sector W&A/Pasted image 20230417201756.png",
@@ -311,8 +222,6 @@
     "Sentinels Rising/04_Stats/Player Stats/03_PlayerStamina.md",
     "Sentinels Rising/02_World Building/Culture.md",
     "Sentinels Rising/02_World Building/Language.md",
-    "Sentinels Rising/02_World Building/History.md",
-    "Sentinels Rising/02_World Building/Environment.md",
     "Untitled",
     "Sentinels Rising/05_Weapons&Armor/Player Weapons & Armor/MeleeWeapons",
     "Sentinels Rising/05_Weapons&Armor/Player Weapons & Armor/RangedWeapons/Pistol",

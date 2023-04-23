@@ -68,3 +68,14 @@ The societies within the caverns ranged from tight-knit communities of families 
 Despite their differences, however, the societies within the caverns all shared a common bond: a fierce independence and a desire to protect their way of life from outside influences. As a result, many of these societies have developed their own unique technologies and ways of living, often adapting to the harsh environment of the planet in innovative and unexpected ways.
 
 Overall, the section of the planet that houses the middle class and majority of the population is a vibrant and bustling place, with a rich and varied culture that extends both above and below the planet's surface. It's a place where people come together to build a better future, even in the face of daunting challenges and harsh living conditions.
+
+---
+4 Generals (1 in the sky)
+3 Captains per General (Captains have an Ability from Assimilation)
+Lieutenants Spawn with Grunts
+3 Melee and 2 Ranged Grunts (Heavy Ranged, Launchers; Melee/Ranged)
+
+6 Creatures per Sector (30 total Beasts, Abilities) Routines-based
+Mini-variants per Beast
+
+Each Sector has 3 Temples(Controlled by Captains, these are the elder Arkai, empty shells); Arkai wants to take these areas back (it's ours); 
