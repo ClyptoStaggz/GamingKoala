@@ -6,48 +6,43 @@
       {
         "id": "dcf1e0c5fccdb47f",
         "type": "tabs",
+        "dimension": 61.936339522546426,
         "children": [
-          {
-            "id": "12d8b466f0e360bd",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Sentinels Rising/02_World Building/World Map/03_Red Sector.canvas",
-                "viewState": {
-                  "x": -19.75930600429882,
-                  "y": 285.32075901318893,
-                  "zoom": 1.1102230246251565e-16
-                }
-              }
-            }
-          },
           {
             "id": "1dfed91d030001ce",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sentinels Rising/02_World Building/World Map/World Map.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "64f059ee549ea36e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sentinels Rising/02_World Building/World Map/Red Sector.md",
+                "file": "Sentinels Rising/04_Stats/Enemy Stats/01_Enemy Overview.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
+      },
+      {
+        "id": "304035d5c644f127",
+        "type": "tabs",
+        "dimension": 38.06366047745358,
+        "children": [
+          {
+            "id": "448c0d99dff20fd4",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Sentinels Rising/04_Stats/Enemy Stats/Base Enemies.canvas",
+                "viewState": {
+                  "x": -9.318178906141071,
+                  "y": -892.0423671941517,
+                  "zoom": -1.6666666666666665
+                }
+              }
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -113,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sentinels Rising/02_World Building/World Map/World Map.md",
+                "file": "Sentinels Rising/04_Stats/Enemy Stats/01_Enemy Overview.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sentinels Rising/02_World Building/World Map/World Map.md",
+                "file": "Sentinels Rising/04_Stats/Enemy Stats/01_Enemy Overview.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sentinels Rising/02_World Building/World Map/World Map.md"
+                "file": "Sentinels Rising/04_Stats/Enemy Stats/01_Enemy Overview.md"
               }
             }
           }
@@ -176,52 +171,52 @@
   },
   "active": "1dfed91d030001ce",
   "lastOpenFiles": [
-    "Sentinels Rising/02_World Building/World Map/01_World Building.canvas",
+    "Sentinels Rising/04_Stats/Enemy Stats/Base Enemies.canvas",
+    "Sentinels Rising/04_Stats/Enemy Stats/Yellow Sector Enemies/Enemies/Enemy Template.md",
+    "Sentinels Rising/04_Stats/Player Stats/01_Player Overview.md",
+    "Sentinels Rising/04_Stats/Enemy Stats/01_Enemy Overview.md",
+    "Sentinels Rising/05_Weapons&Armor/Enemies Weapons & Armor/Red Sector W&A/Pasted image 20230424174342.png",
+    "Sentinels Rising/97_Trello Files/Trello Archive/Boss and Mob Art Board/Bosses and Mobs.md",
+    "Sentinels Rising/03_Feature Breakdown/02_Atom Driver System/Atom Driver System.md",
+    "Sentinels Rising/05_Weapons&Armor/Enemies Weapons & Armor/Red Sector W&A/Pasted image 20230424162937.png",
+    "Sentinels Rising/05_Weapons&Armor/Enemies Weapons & Armor/Red Sector W&A/Pasted image 20230424162930.png",
+    "Sentinels Rising/05_Weapons&Armor/Enemies Weapons & Armor/Red Sector W&A/Pasted image 20230424162924.png",
     "Sentinels Rising/02_World Building/World Map/03_Red Sector.canvas",
     "Sentinels Rising/02_World Building/World Map/Red Sector.md",
+    "Sentinels Rising/97_Trello Files/Trello Archive/Abilities/Bladed Tonfa.md",
+    "Sentinels Rising/97_Trello Files/Trello Archive/Abilities/Cleaver.md",
+    "Sentinels Rising/97_Trello Files/Trello Archive/Abilities/Meteor Hammer.md",
+    "Sentinels Rising/97_Trello Files/Trello Archive/Abilities/Spear Abilities.md",
+    "Sentinels Rising/97_Trello Files/Trello Archive/Abilities/Sword & Shield.md",
+    "Sentinels Rising/03_Feature Breakdown/01_Player Actions/01_Player Movement.md",
+    "Sentinels Rising/04_Stats/Player Stats/05_Musculature.md",
+    "Sentinels Rising/04_Stats/Player Stats/03_PlayerStamina.md",
+    "Sentinels Rising/04_Stats/Player Stats/04_PlayerAenimaPool.md",
+    "Sentinels Rising/04_Stats/Player Stats/02_PlayerHealth.md",
+    "Sentinels Rising/03_Feature Breakdown/05_Threat Level System/Threat Level System.md",
     "Sentinels Rising/03_Feature Breakdown/05_Threat Level System/Ping.md",
-    "Sentinels Rising/97_Trello Files/Trello Archive/Systems/Energy Core System.md",
-    "Sentinels Rising/04_Stats/Enemy Stats/Red Sector Enemies/Red Sector Enemies.canvas",
-    "Sentinels Rising/97_Trello Files/Trello Archive/Systems/Weapon System.md",
-    "Sentinels Rising/01_Overview.md",
-    "Sentinels Rising/05_Weapons&Armor/Player Weapons & Armor/MeleeWeapons/MeleeWeaponStats.md",
-    "Sentinels Rising/03_Feature Breakdown/03_Assimilation/Assimilation.md",
-    "Sentinels Rising/03_Feature Breakdown/04_Abilities & Usage/Abilities.canvas",
-    "Sentinels Rising/04_Stats/Player Stats/Player Character.canvas",
-    "Sentinels Rising/04_Stats/Player Stats/01_Player Overview.md",
-    "Sentinels Rising/97_Trello Files/Trello_Template.canvas",
     "Sentinels Rising/03_Feature Breakdown/04_Abilities & Usage/Abilities.md",
+    "Sentinels Rising/03_Feature Breakdown/04_Abilities & Usage/Ability Buildup & Activation.md",
+    "Sentinels Rising/03_Feature Breakdown/04_Abilities & Usage/Abilities.canvas",
+    "Sentinels Rising/03_Feature Breakdown/03_Assimilation/Assimilation.md",
+    "Sentinels Rising/03_Feature Breakdown/01_Player Actions/Ranged Weapons & Attacks.canvas",
+    "Sentinels Rising/03_Feature Breakdown/01_Player Actions/Primary & Charged Ranged Attacks.md",
+    "Sentinels Rising/03_Feature Breakdown/01_Player Actions/Melee Weapons & Attacks.canvas",
+    "Sentinels Rising/03_Feature Breakdown/01_Player Actions/Light & Heavy Melee Attacks.md",
+    "Sentinels Rising/03_Feature Breakdown/01_Player Actions/02_Blocking -.md",
+    "Sentinels Rising/02_World Building/Language.md",
+    "Sentinels Rising/02_World Building/World Map/01_World Building.canvas",
+    "Sentinels Rising/04_Stats/Enemy Stats/Red Sector Enemies/Red Sector Enemies.canvas",
+    "Sentinels Rising/04_Stats/Player Stats/Player Character.canvas",
+    "Sentinels Rising/97_Trello Files/Trello_Template.canvas",
     "Sentinels Rising/05_Weapons&Armor/Enemies Weapons & Armor/Red Sector W&A/Pasted image 20230412223723.png",
     "Sentinels Rising/05_Weapons&Armor/Enemies Weapons & Armor/Red Sector W&A/Pasted image 20230417200940.png",
     "Sentinels Rising/05_Weapons&Armor/Enemies Weapons & Armor/Red Sector W&A/Pasted image 20230417201756.png",
     "Sentinels Rising/05_Weapons&Armor/Enemies Weapons & Armor/Red Sector W&A/Pasted image 20230417201149.png",
     "Sentinels Rising/05_Weapons&Armor/Enemies Weapons & Armor/Red Sector W&A/Pasted image 20230417200044.png",
-    "Sentinels Rising/03_Feature Breakdown/02_Atom Driver System/Atom Driver System.md",
     "Sentinels Rising/05_Weapons&Armor/Enemies Weapons & Armor/Red Sector W&A/Pasted image 20230417201641.png",
-    "Sentinels Rising/05_Weapons&Armor/Enemies Weapons & Armor/Red Sector W&A/Pasted image 20230417202036.png",
-    "Sentinels Rising/05_Weapons&Armor/Enemies Weapons & Armor/Red Sector W&A/Pasted image 20230417201913.png",
-    "Sentinels Rising/98_Files/Stats/PlayerStats/SR_Stats_CharacterCanvasReference.png",
     "Sentinels Rising/05_Weapons&Armor/Enemies Weapons & Armor/Red Sector W&A/Red Sector Weapons & Armor.canvas",
-    "Sentinels Rising/98_Files/Main Story/SR_MS_Timeline.png",
     "Sentinels Rising/98_Files/Main Story",
-    "Sentinels Rising/01_Main Story/Overview.md",
-    "Sentinels Rising/03_Feature Breakdown/04_Abilities & Usage/Ability Buildup & Activation.md",
-    "Untitled.canvas",
-    "Sentinels Rising/03_Feature Breakdown/01_Player Actions/02_Blocking -.md",
-    "Sentinels Rising/03_Feature Breakdown/01_Player Actions/01_Player Movement.md",
-    "Sentinels Rising/04_Stats/Enemy Stats/01_Enemy Overview.md",
-    "Sentinels Rising/04_Stats/Enemy Stats/Blue Sector Enemies/Enemies/Enemy Template.md",
-    "Sentinels Rising/04_Stats/Enemy Stats/Red Sector Enemies/Enemies/Red Sector - Mantis Creature.md",
-    "Sentinels Rising/03_Feature Breakdown/01_Player Actions/Melee Weapons & Attacks.canvas",
-    "Sentinels Rising/03_Feature Breakdown/01_Player Actions/Light & Heavy Melee Attacks.md",
-    "Sentinels Rising/02_World Building/World Map/06_Yellow Sector.canvas",
-    "Sentinels Rising/03_Feature Breakdown/07_Sheild Integrity/Shield Integrity.md",
-    "Sentinels Rising/03_Feature Breakdown/01_Player Actions/Primary & Charged Ranged Attacks.md",
-    "Sentinels Rising/04_Stats/Player Stats/07_Reconstruction.md",
-    "Sentinels Rising/04_Stats/Player Stats/02_PlayerHealth.md",
-    "Sentinels Rising/04_Stats/Player Stats/03_PlayerStamina.md",
-    "Sentinels Rising/02_World Building/Culture.md",
-    "Sentinels Rising/02_World Building/Language.md",
     "Untitled",
     "Sentinels Rising/05_Weapons&Armor/Player Weapons & Armor/MeleeWeapons",
     "Sentinels Rising/05_Weapons&Armor/Player Weapons & Armor/RangedWeapons/Pistol",
