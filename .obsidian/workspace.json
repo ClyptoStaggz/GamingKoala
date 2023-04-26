@@ -11,9 +11,11 @@
             "id": "73bf2058fef6d03a",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "GameNotes/Sentinels Rising/Tasking and Timelines/Tasking.md"
+                "file": "GameNotes/Sentinels Rising/03_Feature Breakdown/04_Abilities & Usage/Abilities.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -83,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GameNotes/Sentinels Rising/Tasking and Timelines/Tasking.md",
+                "file": "GameNotes/Sentinels Rising/03_Feature Breakdown/04_Abilities & Usage/Abilities.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GameNotes/Sentinels Rising/Tasking and Timelines/Tasking.md",
+                "file": "GameNotes/Sentinels Rising/03_Feature Breakdown/04_Abilities & Usage/Abilities.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GameNotes/Sentinels Rising/Tasking and Timelines/Tasking.md"
+                "file": "GameNotes/Sentinels Rising/03_Feature Breakdown/04_Abilities & Usage/Abilities.md"
               }
             }
           }
@@ -146,6 +148,9 @@
   },
   "active": "73bf2058fef6d03a",
   "lastOpenFiles": [
+    "GameNotes/Sentinels Rising/03_Feature Breakdown/04_Abilities & Usage/Ability Buildup & Activation.md",
+    "GameNotes/Sentinels Rising/03_Feature Breakdown/04_Abilities & Usage/Abilities.md",
+    "GameNotes/Sentinels Rising/Tasking and Timelines/Tasking.md",
     "GameNotes/Sentinels Rising/Tasking and Timelines/02_Tasking and Timelines.md"
   ]
 }
