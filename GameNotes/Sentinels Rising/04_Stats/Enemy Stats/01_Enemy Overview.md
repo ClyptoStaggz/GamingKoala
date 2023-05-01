@@ -13,7 +13,9 @@ Link any features that the enemies will use
 ![[Pasted image 20230412223723.png]]
 
 ---
-# Adaptive Strategy
+# Adaptive Strategy  (Threat Logic System)
+
+
 Lieutenants, Commanders, and Generals will have the perceptive ability to observe the players both in and out of combat. Based on how the player regularly plays, the officers will command their units to attack, defend, or retreat in specific ways. If the player usually prefers to fight with melee weapons and abilities, the officers will command their units to be more defensive and fire ranged attacks from afar.
 
 ###### Neutral Behavior
