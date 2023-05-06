@@ -1,4 +1,4 @@
-### Nexus
+ ### Nexus
 The Nexus is a massive section of the planet that appears to have been carved out of the surrounding land. It is the central hub of defense, where the planet's current military and surviving humans have gathered to defend against threats both internal and external.
 
 The area is heavily fortified, with towering walls and gates that provide a formidable barrier against any potential attackers. Within the walls, there are numerous military installations, including barracks, armories, and training facilities, all designed to keep the planet's defenders at the peak of their physical and mental abilities.
