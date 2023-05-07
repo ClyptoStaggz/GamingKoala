@@ -11,14 +11,11 @@
             "id": "47d7097184917a53",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Sentinels Rising/03_Feature Breakdown/01_Player Actions/Melee Weapons & Attacks.canvas",
-                "viewState": {
-                  "x": 20,
-                  "y": -46.5,
-                  "zoom": 0
-                }
+                "file": "Sentinels Rising/03_Feature Breakdown/04_Abilities & Usage/Abilities.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -67,6 +64,14 @@
               "type": "starred",
               "state": {}
             }
+          },
+          {
+            "id": "66ec1687f94ff4f7",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
           }
         ]
       }
@@ -88,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sentinels Rising/03_Feature Breakdown/01_Player Actions/Melee Weapons & Attacks.canvas",
+                "file": "Sentinels Rising/03_Feature Breakdown/04_Abilities & Usage/Abilities.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sentinels Rising/03_Feature Breakdown/01_Player Actions/Melee Weapons & Attacks.canvas",
+                "file": "Sentinels Rising/03_Feature Breakdown/04_Abilities & Usage/Abilities.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sentinels Rising/03_Feature Breakdown/01_Player Actions/Melee Weapons & Attacks.canvas"
+                "file": "Sentinels Rising/03_Feature Breakdown/04_Abilities & Usage/Abilities.md"
               }
             }
           }
@@ -151,8 +156,14 @@
   },
   "active": "47d7097184917a53",
   "lastOpenFiles": [
-    "Sentinels Rising/03_Feature Breakdown/01_Player Actions/Light & Heavy Melee Attacks.md",
+    "Sentinels Rising/03_Feature Breakdown/04_Abilities & Usage/Abilities.canvas",
+    "Sentinels Rising/03_Feature Breakdown/04_Abilities & Usage/Ability Buildup & Activation.md",
+    "Sentinels Rising/03_Feature Breakdown/04_Abilities & Usage/Abilities.md",
     "Sentinels Rising/03_Feature Breakdown/01_Player Actions/02_Blocking -.md",
+    "Sentinels Rising/03_Feature Breakdown/01_Player Actions/Ranged Weapons & Attacks.canvas",
+    "Sentinels Rising/03_Feature Breakdown/01_Player Actions/Primary & Charged Ranged Attacks.md",
+    "Sentinels Rising/03_Feature Breakdown/01_Player Actions/Melee Weapons & Attacks.canvas",
+    "Sentinels Rising/03_Feature Breakdown/01_Player Actions/Light & Heavy Melee Attacks.md",
     "Sentinels Rising/03_Feature Breakdown/01_Player Actions/01_Player Movement.md",
     "Sentinels Rising/03_Feature Breakdown/02_Atom Driver System/Atom Driver System.md",
     "Sentinels Rising/03_Feature Breakdown/Feature Breakdown.md",
@@ -169,10 +180,6 @@
     "Sentinels Rising/01_Overview.md",
     "Sentinels Rising/03_Marketing.md",
     "Sentinels Rising/04_Stats/Enemy Stats/Base Enemies.canvas",
-    "Sentinels Rising/03_Feature Breakdown/01_Player Actions/Ranged Weapons & Attacks.canvas",
-    "Sentinels Rising/03_Feature Breakdown/01_Player Actions/Primary & Charged Ranged Attacks.md",
-    "Sentinels Rising/03_Feature Breakdown/04_Abilities & Usage/Abilities.md",
-    "Sentinels Rising/03_Feature Breakdown/04_Abilities & Usage/Ability Buildup & Activation.md",
     "Sentinels Rising/03_Feature Breakdown/05_Threat Logic System/Ping.md",
     "Sentinels Rising/03_Feature Breakdown/05_Threat Logic System/Threat Logic System.md",
     "Sentinels Rising/03_Feature Breakdown/06_Inquisitive/Inquisitive.md",
@@ -181,7 +188,6 @@
     "Sentinels Rising/03_Feature Breakdown/08_Unblockable Attacks/Unblockable Attacks.md",
     "Sentinels Rising/02_World Building/Environment.md",
     "Sentinels Rising/02_World Building/Language.md",
-    "Sentinels Rising/02_World Building/History.md",
     "Sentinels Rising/98_Files/Enemies/Pasted image 20230424174342.png",
     "Sentinels Rising/98_Files/Enemies",
     "Sentinels Rising/98_Files/Abilities, Skills, & Talents/abilityhelix1.jpg",
@@ -197,8 +203,6 @@
     "Sentinels Rising/98_Files/Abilities, Skills, & Talents/Pasted image 20230417201149.png",
     "Sentinels Rising/98_Files/Abilities, Skills, & Talents/Pasted image 20230417201641.png",
     "Sentinels Rising/05_Weapons&Armor/Enemies Weapons & Armor/Red Sector W&A/Red Sector Weapons & Armor.canvas",
-    "Sentinels Rising/03_Feature Breakdown/04_Abilities & Usage/Abilities.canvas",
-    "Sentinels Rising/03_Feature Breakdown/01_Player Actions/Melee Weapons & Attacks.canvas",
     "Sentinels Rising/02_World Building/World Map/02_Nexus.canvas",
     "Sentinels Rising/02_World Building/World Map/03_Red Sector.canvas",
     "Sentinels Rising/98_Files/Main Story",
