@@ -9,6 +9,14 @@ List of things that would get outlined
 	Enemies
 	
 
+![[Ping.png]]
+
+Example of pulse outward:
+https://youtube.com/clip/Ugkx-yBoGYLDRl6SJwmWgZkodcL8mWnIwjMG
+
+
+
+
 Ghostlike - Nanite cluster; synthisizer, magnetic liquid equilizer
 
 Upgrade path

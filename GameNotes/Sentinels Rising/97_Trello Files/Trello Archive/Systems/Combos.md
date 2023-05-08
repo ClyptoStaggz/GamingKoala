@@ -1,4 +1,4 @@
-![[Trelloo_Combo.png]]
+![[Weapon Combo Template.png]]
 
 We need to list each suit along with what the attack combinations will do/look like for their melee/ranged attacks.
 

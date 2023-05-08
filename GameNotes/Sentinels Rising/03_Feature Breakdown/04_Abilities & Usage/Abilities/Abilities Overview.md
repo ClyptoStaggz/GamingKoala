@@ -42,26 +42,6 @@ Type:
 Effect: 
 Scaling: 
 
-------
-## 15 Captain Abilities.
-
-
-1. Nanoplasma - Fires a bolt of superheated plasma made of nanobots that deal high damage to a single target.
-2. Nanoblade Storm - Unleashes a storm of razor-sharp nanobots that slice through enemies and deal moderate damage to multiple targets within a small area of effect.
-3. Nano chainbolt - Fires a bolt of lightning made of nanobots that jump from target to target, dealing moderate damage to each.
-4. Nanosmasher - Charges the nanobot exosuit's fists with energy, allowing it to deliver a powerful punch that deals high damage to a single target.
-5. Nanocannon Barrage - Unleashes a barrage of nano cannon blasts that rain down on enemies within a large area of effect, dealing moderate damage.
-6. Nanovortex - Creates a vortex of nanobots that damages enemies and pulls them towards the center of the vortex.
-7. Nanobomb - Deploys a large explosive nanobot that detonates on impact, dealing high damage to all enemies within a small area of effect.
-8. Nanobeam - Fires a concentrated beam of nanobots that deals high damage to a single target and penetrates through enemy defenses.
-9. Nanobombardment - Deploys a cluster of explosive nanobots that rain down on enemies within a moderate area of effect, dealing high damage.
-10. Nanoblade Whirlwind - Spins rapidly, unleashing a whirlwind of nanobot blades that deal moderate damage and inflict bleeding to enemies within a small area of effect.
-11. Nanite Spear: Projects a spear made of nanobots that can pierce through multiple enemies, dealing damage to each one.
-12. Nanite Missiles: Launches a barrage of nanobots that home in on a single enemy, dealing moderate damage. At higher ranks, the number of missiles increases, allowing for multiple targets.
-13. Energy Whips: The suit can replicate flexible energy whips which can be used to lash out at enemies.
-14. Nanocutter: Creates a blade made of nanobots that can slice through multiple enemies, dealing damage to each one.
-15. Overload - Overloads the nanobot exosuit's systems, causing it to discharge a powerful shockwave that damages enemies within a moderate area of effect.
-## 15 Creature Abilities. 
 ---
 ===Utility Abilities===
 

@@ -11,9 +11,9 @@ The player will be able to perform a block during combat that will prevent damag
 
 ## Perfect Parry 
 
-### Melee 
-During combat the player will be able to time blocking to perfectly counter an enemy attack. After this intial counter notification, the player will have a secondary notification they must hit in order for the counter attack to be successful. 
-
+### Melee  
+During combat the player will be able to time blocking to perfectly counter an enemy attack. After this intial counter notification, the player will have a secondary notification they must hit in order for the counter attack to be successful. (ictus strike - repelling slash)
+&& 
 https://youtu.be/9FtgL1AeyW8
 
 ### Ranged
