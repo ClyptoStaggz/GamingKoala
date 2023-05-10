@@ -35,9 +35,9 @@ This describes the behavior of the enemy when the commanding unit has issued a d
 
 
 # Nomadic Nature
-Officers will often travel between locations and encourage the units to do the same. This will ensure that there are a wide range of enemies for the player to assimilate at any given time. The enemies will be present in the sections of the world map for a small amount of time before they all move around again. While spontaneous in nature, there are distinct patterns the players will be able to observe if they pay attention for the long run.
+Officers will often travel between locations and encourage the units to do the same. This will ensure that there are a wide range of enemies for the player to engage at any given time. The enemies will be present in the sections of the world map for a small amount of time before they all move around again. While spontaneous in nature, there are distinct patterns the players will be able to observe if they pay attention for the long run.
+
 # Overshields
-Some enemies will have specific overshields around their body to negate a percentage of damage. The players will need to deplete this overshield in order to do damage. The shields can be categorized into 3 different types which are ranged, physical, and energy. Damaging the enemies with the corresponding damage type will deplete the overshield faster. 
 
 ---
 
