@@ -1,0 +1,9 @@
+Ability Name: EMP Quake
+
+Type: Crowd Control
+
+Effect: EMP Quake releases a devastating electromagnetic pulse that reverberates through the surrounding area, causing a powerful shockwave. The shockwave knocks down all enemies within a certain radius, rendering them temporarily incapacitated and unable to take any action. This creates an opportunity for follow-up attacks, strategic repositioning, or escape.
+
+Scaling: As EMP Quake ranks up, the radius of the shockwave expands, enabling the player to affect a larger number of enemies within its range. The increased damage of the shockwave amplifies the impact on enemies, making it more effective at controlling and damaging groups of adversaries. The knockdown effect remains consistent, allowing the player and their allies to capitalize on the vulnerable state of the incapacitated enemies.
+
+Explanation for Player Decisions: EMP Quake provides players with a powerful crowd control ability that can turn the tide of battle by temporarily disabling a group of enemies. By ranking up EMP Quake, players can increase its radius, enhancing their control over a larger area and impacting more enemies at once. The heightened damage of the shockwave ensures that the ability remains impactful as enemies become tougher. The knockdown effect provides players with strategic options, such as delivering devastating follow-up attacks or creating an opportunity for a tactical retreat if overwhelmed. This ability is especially valuable for players who seek to control the battlefield, disrupt enemy formations, and gain an advantage in combat situations.

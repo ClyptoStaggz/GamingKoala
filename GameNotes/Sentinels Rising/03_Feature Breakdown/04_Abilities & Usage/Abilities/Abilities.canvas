@@ -1,17 +1,17 @@
 {
 	"nodes":[
-		{"type":"file","file":"Sentinels Rising/98_Files/Abilities, Skills, & Talents/double helix.webm","id":"56f5aa745794c7f2","x":177,"y":-120,"width":530,"height":299},
 		{"type":"file","file":"Sentinels Rising/98_Files/Abilities, Skills, & Talents/helix2.webm","id":"23924bb344ade76c","x":736,"y":-120,"width":530,"height":299},
 		{"type":"file","file":"Sentinels Rising/98_Files/Abilities, Skills, & Talents/helix3.webm","id":"5cb910cf48dc0e6c","x":1319,"y":-120,"width":530,"height":299},
-		{"type":"file","file":"Sentinels Rising/03_Feature Breakdown/04_Abilities & Usage/Ability Images/Utility Abilities.png","id":"419bbd12f1b12159","x":-260,"y":240,"width":520,"height":804},
 		{"type":"file","file":"Sentinels Rising/98_Files/Abilities, Skills, & Talents/SR_AST_Abilities_Progression.png","id":"001318108869690e","x":-276,"y":-120,"width":432,"height":300},
 		{"type":"file","file":"Sentinels Rising/98_Files/Abilities, Skills, & Talents/SR_AST_Abilities_FlowChart.png","id":"6f708b9f67c95f5d","x":177,"y":-523,"width":840,"height":346},
 		{"type":"file","file":"Sentinels Rising/98_Files/Abilities, Skills, & Talents/abilityhelix1 1.jpg","id":"a74f9e92ceff0ea8","x":-276,"y":-523,"width":431,"height":306},
-		{"type":"file","file":"Sentinels Rising/03_Feature Breakdown/04_Abilities & Usage/Ability Images/LaserStorm_concept.gif","id":"28cd8892deb0db60","x":1960,"y":1787,"width":400,"height":227},
 		{"type":"text","text":"## -=Rules of the Chart=-\n\nActivation type: The area in which the ability is capable of being activated, or targeting enemies. \n\nActivation range: The range of this activation type. \n\nOrigin: The point in which the activation type starts.\n\nActivation time: How long it takes to activate the ability \nonce the player has chosen to activate. \n\nHit box: \n\nHit box range: \n\nEffect:\n\nEffect time:\n\n","id":"7de9ea2e7356e008","x":-260,"y":1060,"width":400,"height":660},
 		{"type":"text","text":"<iframe src=\"https://docs.google.com/spreadsheets/d/1TSwOVaOp3shykbLJZxmOSIby_dPdiFZ9lVXYb-EVwVM/edit?usp=sharing\" width=\"1450\" height=\"600\"></iframe>","id":"8132ebf056f41d95","x":160,"y":1060,"width":1500,"height":660},
 		{"type":"file","file":"Sentinels Rising/03_Feature Breakdown/04_Abilities & Usage/Ability Images/Defensive Abilities.png","id":"251ebd1090101dab","x":280,"y":240,"width":530,"height":801},
-		{"type":"file","file":"Sentinels Rising/03_Feature Breakdown/04_Abilities & Usage/Ability Images/Offensive Abilities.png","id":"5e47ab7206a673b3","x":831,"y":240,"width":829,"height":801}
+		{"type":"file","file":"Sentinels Rising/03_Feature Breakdown/04_Abilities & Usage/Ability Images/Offensive Abilities.png","id":"5e47ab7206a673b3","x":831,"y":240,"width":829,"height":801},
+		{"type":"file","file":"Sentinels Rising/03_Feature Breakdown/04_Abilities & Usage/Ability Images/LaserStorm_concept.gif","id":"28cd8892deb0db60","x":1319,"y":-523,"width":400,"height":227},
+		{"type":"file","file":"Sentinels Rising/98_Files/Abilities, Skills, & Talents/double helix.webm","id":"56f5aa745794c7f2","x":177,"y":-119,"width":530,"height":299},
+		{"type":"file","file":"Sentinels Rising/03_Feature Breakdown/04_Abilities & Usage/Ability Images/Utility Abilities.png","id":"419bbd12f1b12159","x":-276,"y":240,"width":520,"height":804}
 	],
 	"edges":[]
 }

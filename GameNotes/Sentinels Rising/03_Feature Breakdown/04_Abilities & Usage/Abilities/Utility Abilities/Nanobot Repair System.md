@@ -1,0 +1,9 @@
+Ability Name: Nanobot Repair System
+
+Type: Healing
+
+Effect: Nanobot Repair System activates the exosuit's advanced nanobot swarm, which is released in a cone-shaped area in front of the user. The nanobots swiftly repair damage and restore a moderate amount of health to all allies within the cone. The healing effect rejuvenates the targeted allies, replenishing their vitality and aiding in their recovery during intense combat scenarios.
+
+Scaling: As Nanobot Repair System ranks up, the cone area of effect widens, allowing the user to reach and heal a larger number of allies within its range. Additionally, the healing effect becomes stronger, providing a more significant health restoration to the affected allies. At higher ranks, the nanobot swarm gains the ability to target multiple allies within the cone, further expanding the support capabilities. At the maximum rank, the nanobot swarm's healing potency is increased by 15% compared to its effectiveness at rank 1.
+
+Explanation for Player Decisions: Nanobot Repair System grants players a crucial healing ability to support their allies during challenging encounters. By ranking up this ability, players can expand the area of effect, ensuring more allies can benefit from the healing nanobots. The increased healing strength aids in sustaining and rejuvenating the health of allies, enabling them to endure extended battles. With the ability to target multiple allies at higher ranks, players have greater flexibility in choosing whom to prioritize for healing support. This ability is ideal for players who prefer a supportive role, bolstering their team's survivability and overall effectiveness in combat.

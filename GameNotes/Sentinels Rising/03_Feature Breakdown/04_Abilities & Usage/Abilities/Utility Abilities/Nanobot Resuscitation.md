@@ -1,0 +1,9 @@
+Ability Name: Nanobot Resuscitation
+
+Type: Healing
+
+Effect: Nanobot Resuscitation deploys a powerful pulse of nanobots, instantly restoring a moderate amount of HP to the user or a single targeted ally. Simultaneously, it creates a continuous stream of nanobots that envelop the healed ally, gradually restoring their HP over time. This combination of immediate and sustained healing offers a versatile approach to maintaining health and sustaining allies in the midst of intense battles.
+
+Scaling: As Nanobot Resuscitation ranks up, the initial pulse of nanobots restores an increased amount of HP, providing a more substantial instant healing effect. The stream of nanobots that follows also becomes more efficient, accelerating the rate at which HP is restored over time. At higher ranks, the ability gains the capability to target multiple allies simultaneously, expanding its supportive potential. At the maximum rank, Nanobot Resuscitation restores 15% more HP compared to its effectiveness at rank 1.
+
+Explanation for Player Decisions: Nanobot Resuscitation empowers players with a versatile healing ability that combines immediate healing with ongoing support. By ranking up this ability, players can deliver a more substantial burst of instant healing, quickly restoring a significant amount of HP to the targeted ally or themselves. The accelerated healing stream ensures a continuous recovery process, gradually replenishing HP over time to sustain the healed ally during extended engagements. With the ability to target multiple allies at higher ranks, players have the flexibility to prioritize healing support based on the needs of their team. Nanobot Resuscitation is an excellent choice for players who embrace a supportive role, providing timely and reliable healing assistance to their allies.

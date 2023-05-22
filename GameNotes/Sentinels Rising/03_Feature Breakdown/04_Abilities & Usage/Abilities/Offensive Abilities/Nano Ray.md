@@ -1,0 +1,9 @@
+Ability Name: Nanoray
+
+Type: Damage
+
+Effect: Nanoray harnesses the power of nanobots to unleash a focused and sustained beam of energy. When activated, the player emits a beam composed of swarming nanobots that can be directed towards multiple enemies. The nanobots latch onto the targets, continuously damaging them over time as the beam remains connected. The Nanoray ability grants players the flexibility to sweep the beam across multiple enemies, effectively dealing sustained damage to a group of foes within the path of the beam.
+
+Scaling: As Nanoray ranks up, the player gains the ability to channel the beam for longer durations, extending the damage-dealing potential. This allows players to maintain the connection with enemies for an increased amount of time, maximizing the damage inflicted by the nanobots. Additionally, the damage output of the nanobots increases with each rank, making the beam even more devastating to those caught within its path. Higher ranks of Nanoray grant players the power to unleash a torrent of nanobotic energy, melting through enemy defenses and leaving a trail of destruction in their wake.
+
+Explanation for Player Decisions: Choosing Nanoray empowers players with a potent beam of nanobotic energy that can be directed towards multiple enemies, dealing sustained damage over time. This ability provides a versatile damage-dealing option, allowing players to target and weaken multiple foes simultaneously. The scaling aspect of Nanoray ensures that as players rank up the ability, they can channel the beam for extended durations, increasing the damage output and maximizing its effectiveness. Nanoray is a great choice for players who prefer ranged combat and strategic damage over time, as it allows them to control the battlefield and weaken multiple adversaries with a relentless nanobotic assault.

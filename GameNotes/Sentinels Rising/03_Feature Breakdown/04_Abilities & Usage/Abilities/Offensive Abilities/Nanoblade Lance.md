@@ -1,0 +1,9 @@
+Ability Name: Nanoblade Lance
+
+Type: Damage
+
+Effect: Nanoblade Lance is a high-speed offensive ability that harnesses the power of nanotechnology to unleash a flurry of razor-sharp nanoblades. When activated, the player performs a swift and agile dash forward, surrounded by a swirling vortex of nanoblades. As the player dashes, the nanoblades slice through enemies caught in their wake, dealing damage to all unfortunate foes within range.
+
+Scaling: As Nanoblade Lance ranks up, both the damage output and the distance covered by the effect increase. The nanoblades become sharper and more potent, resulting in more substantial damage inflicted upon enemies. Additionally, the player's dash distance extends, allowing them to reach enemies from a greater distance and effectively cover more ground with their devastating nanoblade onslaught. Higher ranks of Nanoblade Lance empower players to swiftly cut through hordes of enemies, making it an excellent choice for aggressive, close-quarters combat.
+
+Explanation for Player Decisions: Selecting Nanoblade Lance grants players a dynamic and visually striking ability that combines swift movement and deadly nanoblades. This ability allows players to engage enemies head-on, utilizing their agility and the destructive power of nanotechnology to carve a path through their foes. The scaling aspect of Nanoblade Lance ensures that as players progress in ranks, their nanoblades become deadlier and their dashes cover more ground, enabling them to deal significant damage to multiple enemies simultaneously. Players who favor fast-paced, close-combat gameplay will find Nanoblade Lance to be a formidable choice, providing both offensive power and impressive mobility.
