@@ -11,11 +11,20 @@
             "id": "1b3dcfa153d225b1",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
+<<<<<<< Updated upstream
                 "file": "Sentinels Rising/04_Stats/Enemy Stats/Ypomycetes Ranks/Ypomycetes Captains/Ypomycetes Illusio/Illusio.md",
                 "mode": "source",
                 "source": false
+=======
+                "file": "Sentinels Rising/05_Weapons&Armor/Player Weapons & Armor/Player Weapons & Armor.canvas",
+                "viewState": {
+                  "x": 1715.3519256308102,
+                  "y": 494.59628154050466,
+                  "zoom": -0.7102804860229732
+                }
+>>>>>>> Stashed changes
               }
             }
           }
@@ -138,7 +147,11 @@
             "state": {
               "type": "backlink",
               "state": {
+<<<<<<< Updated upstream
                 "file": "Sentinels Rising/04_Stats/Enemy Stats/Ypomycetes Ranks/Ypomycetes Captains/Ypomycetes Illusio/Illusio.md",
+=======
+                "file": "Sentinels Rising/05_Weapons&Armor/Player Weapons & Armor/Player Weapons & Armor.canvas",
+>>>>>>> Stashed changes
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,7 +168,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+<<<<<<< Updated upstream
                 "file": "Sentinels Rising/04_Stats/Enemy Stats/Ypomycetes Ranks/Ypomycetes Captains/Ypomycetes Illusio/Illusio.md",
+=======
+                "file": "Sentinels Rising/05_Weapons&Armor/Player Weapons & Armor/Player Weapons & Armor.canvas",
+>>>>>>> Stashed changes
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -178,7 +195,11 @@
             "state": {
               "type": "outline",
               "state": {
+<<<<<<< Updated upstream
                 "file": "Sentinels Rising/04_Stats/Enemy Stats/Ypomycetes Ranks/Ypomycetes Captains/Ypomycetes Illusio/Illusio.md"
+=======
+                "file": "Sentinels Rising/05_Weapons&Armor/Player Weapons & Armor/Player Weapons & Armor.canvas"
+>>>>>>> Stashed changes
               }
             }
           }
@@ -201,6 +222,7 @@
   },
   "active": "1b3dcfa153d225b1",
   "lastOpenFiles": [
+<<<<<<< Updated upstream
     "Sentinels Rising/04_Stats/Enemy Stats/Ypomycetes Ranks/Ypomycetes Captains/Ypomycetes Magnus/Magnus.md",
     "Sentinels Rising/04_Stats/Enemy Stats/Ypomycetes Ranks/Ypomycetes Captains/Ypomycetes Nanomancer/NanoMancer.md",
     "Sentinels Rising/04_Stats/Enemy Stats/Ypomycetes Ranks/Ypomycetes Captains/Ypomycetes Nebulon/Nebulon.md",
@@ -257,5 +279,63 @@
     "Sentinels Rising/04_Stats/Enemy Stats/Yellow Sector Enemies/Yellow Sector Enemies.canvas",
     "Sentinels Rising/02_World Building/World Map/03_Red Sector.canvas",
     "Sentinels Rising/05_Weapons&Armor/Player Weapons & Armor/Player Weapons & Armor.canvas"
+=======
+    "Sentinels Rising/05_Weapons&Armor/Player Weapons & Armor/WeaponStoryboard.png",
+    "Sentinels Rising/05_Weapons&Armor/Player Weapons & Armor/Weapon Combo Template.png",
+    "Sentinels Rising/98_Files/Weapons/Melee/SR_Weapons_Table_Melee.png",
+    "Sentinels Rising/98_Files/Weapons/Melee/SR_Weapons_Melee.png",
+    "Sentinels Rising/98_Files/Trello Images/Trello_WorldDesign1.png",
+    "Sentinels Rising/98_Files/Trello Images/Trello_WorldDesign2.png",
+    "Sentinels Rising/98_Files/Trello Images/Trello_WeaponSystem_Info.png",
+    "Sentinels Rising/98_Files/Trello Images/Trello_Thunderclap.gif",
+    "Sentinels Rising/98_Files/Trello Images/Trello_Spear.png",
+    "Sentinels Rising/98_Files/Trello Images/Trello_SkillAssimilation.png",
+    "Sentinels Rising/98_Files/Trello Images/Trello_MobSystem.png",
+    "Sentinels Rising/02_World Building/World Map/03_Red Sector.canvas",
+    "Sentinels Rising/02_World Building/World Map/04_Blue Sector.canvas",
+    "Sentinels Rising/02_World Building/World Map/World Map.md",
+    "Sentinels Rising/03_Feature Breakdown/04_Abilities & Usage/Abilities/Abilities.canvas",
+    "Sentinels Rising/02_World Building/World Map/01_World Building.canvas",
+    "Sentinels Rising/03_Feature Breakdown/04_Abilities & Usage/Abilities/Abilities Overview.md",
+    "Sentinels Rising/03_Feature Breakdown/04_Abilities & Usage/Abilities/Ability Buildup & Activation (TBD).md",
+    "Sentinels Rising/05_Weapons&Armor/Player Weapons & Armor/Player Weapons & Armor.canvas",
+    "Sentinels Rising/04_Stats/Player Stats/01_Player Overview.md",
+    "Sentinels Rising/03_Feature Breakdown/Feature Breakdown.md",
+    "Sentinels Rising/03_Feature Breakdown/07_Sheild Integrity/Shield Integrity.md",
+    "Sentinels Rising/03_Feature Breakdown/06_Inquisitive/Inquisitive.md",
+    "Sentinels Rising/03_Feature Breakdown/05_Threat Logic System/Threat Logic System.md",
+    "Sentinels Rising/03_Feature Breakdown/05_Threat Logic System/Ping.md",
+    "Sentinels Rising/05_Weapons&Armor/Player Weapons & Armor/01_Player Weapons & Armor Overview.md",
+    "Sentinels Rising/05_Weapons&Armor/Player Weapons & Armor/MeleeWeapons/MeleeWeaponStats.md",
+    "Sentinels Rising/04_Stats/Enemy Stats/01_Enemy Overview.md",
+    "Sentinels Rising/05_Weapons&Armor/Enemies Weapons & Armor/Blue Sector W&A/Armor/Blue Sector Armor Template.md",
+    "Sentinels Rising/03_Feature Breakdown/09_Deconstructing Items/Deconstructing Items.md",
+    "Sentinels Rising/03_Feature Breakdown/08_Unblockable Attacks/Unblockable Attacks.md",
+    "Sentinels Rising/03_Feature Breakdown/01_Player Actions/02_Blocking -.md",
+    "Sentinels Rising/03_Feature Breakdown/01_Player Actions/Counter-Attack.md",
+    "Sentinels Rising/03_Feature Breakdown/01_Player Actions/01_Player Movement.md",
+    "Sentinels Rising/03_Feature Breakdown/01_Player Actions/Light & Heavy Melee Attacks.md",
+    "Sentinels Rising/03_Feature Breakdown/03_Assimilation/Assimilation.md",
+    "Sentinels Rising/03_Feature Breakdown/02_Atom Driver System/Atom Driver System.md",
+    "Sentinels Rising/03_Feature Breakdown/01_Player Actions/Ranged Weapons & Attacks.canvas",
+    "Sentinels Rising/03_Feature Breakdown/01_Player Actions/Primary & Charged Ranged Attacks.md",
+    "Sentinels Rising/03_Feature Breakdown/01_Player Actions/Melee Weapons & Attacks.canvas",
+    "Sentinels Rising/05_Weapons&Armor/Enemies Weapons & Armor/Red Sector W&A/Red Sector Weapons & Armor.canvas",
+    "Sentinels Rising/05_Weapons&Armor/Enemies Weapons & Armor/Enemies Weapons & Armor.canvas",
+    "Sentinels Rising/01_Main Story/Main Missions/Mission Breakdowns/00_Mission Breakdowns.md",
+    "Sentinels Rising/01_Main Story/FTUE/First-Time User Experience.md",
+    "Sentinels Rising/02_World Building/World Map/Red Sector.md",
+    "Sentinels Rising/02_World Building/World Map/07_Purple Sector.canvas",
+    "Sentinels Rising/98_Files/Abilities, Skills, & Talents/helix3.webm",
+    "Sentinels Rising/98_Files/Abilities, Skills, & Talents/helix2.webm",
+    "Sentinels Rising/03_Feature Breakdown/04_Abilities & Usage/Abilities/Offensive Abilities",
+    "Sentinels Rising/03_Feature Breakdown/04_Abilities & Usage/Abilities/Defensive Abilities",
+    "Sentinels Rising/03_Feature Breakdown/04_Abilities & Usage/Abilities/Utility Abilities",
+    "Sentinels Rising/03_Feature Breakdown/04_Abilities & Usage/Abilities",
+    "Sentinels Rising/03_Feature Breakdown/04_Abilities & Usage/Ability Images",
+    "Sentinels Rising/98_Files/Enemies",
+    "Sentinels Rising/98_Files/Abilities, Skills, & Talents/double helix.webm",
+    "Sentinels Rising/98_Files/Main Story"
+>>>>>>> Stashed changes
   ]
 }
