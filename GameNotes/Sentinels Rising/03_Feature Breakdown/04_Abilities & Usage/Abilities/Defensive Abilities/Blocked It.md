@@ -1,0 +1,9 @@
+Ability Name: Blocked It
+
+Type: Defensive
+
+Effect: Blocked It grants the player the ability to nullify incoming attacks and reset the enemy's offensive actions. When activated, the player can successfully block an attack from an enemy, halting their current attack sequence and forcing them to start over. This ability allows the player to effectively interrupt enemy combos, disrupt their momentum, and create openings for counterattacks or repositioning.
+
+Scaling: As Blocked It ranks up, the player's proficiency in blocking becomes more advanced. They gain the ability to block increasingly powerful attacks, including those that are normally considered unblockable. The scaling of the ability aligns with the rank or difficulty of the enemy, enabling the player to negate devastating attacks and reset even the most formidable opponents. However, it is important to note that Blocked It does not completely neutralize all attacks but rather provides a temporary window of opportunity by interrupting the enemy's current action.
+
+Explanation for Player Decisions: Blocked It is a valuable defensive ability that allows players to effectively counter enemy attacks and regain control of the battlefield. By mastering the timing and execution of the ability, players can nullify incoming attacks, disrupt enemy combos, and create advantageous situations for themselves and their team. As the ability ranks up, players gain the power to block increasingly potent and even unblockable attacks, providing a significant tactical advantage against formidable foes. Choosing Blocked It empowers players to become adept at defensive maneuvers and strategic disruption, making it a valuable addition to their arsenal.

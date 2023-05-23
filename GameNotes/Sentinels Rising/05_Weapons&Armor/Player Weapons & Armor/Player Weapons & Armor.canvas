@@ -4,7 +4,9 @@
 		{"type":"file","file":"Sentinels Rising/98_Files/Stats/Weapons/SR_Stats_MeleeWeaponStats.png","id":"bb55fd049e3955aa","x":340,"y":-440,"width":653,"height":687},
 		{"type":"file","file":"Sentinels Rising/98_Files/Stats/Weapons/SR_Stats_RangedWeaponStats.png","id":"cc58fcc03af832fa","x":340,"y":280,"width":653,"height":606},
 		{"type":"file","file":"Sentinels Rising/98_Files/Armor/Gear/SR_Armor_Gear.png","id":"9008962388cc96fe","x":-100,"y":-420,"width":400,"height":102},
-		{"type":"file","file":"Sentinels Rising/98_Files/Armor/Accessories/SR_Armor_Accessories.png","id":"6e9bd07846f6687d","x":-100,"y":-290,"width":400,"height":194}
+		{"type":"file","file":"Sentinels Rising/98_Files/Armor/Accessories/SR_Armor_Accessories.png","id":"6e9bd07846f6687d","x":-100,"y":-290,"width":400,"height":194},
+		{"id":"435711273feccb17","x":1700,"y":286,"width":440,"height":551,"type":"file","file":"Sentinels Rising/05_Weapons&Armor/Player Weapons & Armor/WeaponStoryboard.png"},
+		{"id":"93d1a88ba6d33162","x":1040,"y":286,"width":630,"height":400,"type":"file","file":"Sentinels Rising/05_Weapons&Armor/Player Weapons & Armor/Weapon Combo Template.png"}
 	],
 	"edges":[]
 }
