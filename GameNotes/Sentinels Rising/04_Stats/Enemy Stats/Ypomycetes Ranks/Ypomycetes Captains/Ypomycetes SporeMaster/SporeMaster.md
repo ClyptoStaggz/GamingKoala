@@ -1,5 +1,9 @@
 
 1.  Sporemaster Cinerius (Cinerius derived from "cinerea," meaning "ashen" or "gray" in Latin)
+
+![[Pasted image 20230522144327.png|200]]
+
+
     
 2.  Description: Sporemaster Cinerius is a cunning general who excels in ranged combat and possesses expertise in the deployment of spore bombs. With a variety of spore-based attacks at their disposal, this captain can afflict enemies with debilitating status ailments, weakening them and making them vulnerable to further attacks.
     

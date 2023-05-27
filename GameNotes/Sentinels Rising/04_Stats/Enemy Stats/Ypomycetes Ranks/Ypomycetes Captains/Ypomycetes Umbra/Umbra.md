@@ -1,4 +1,7 @@
 1.  Umbra  (Umbra meaning "Shadow" in Latin)
+
+![[Pasted image 20230522131122.png|200]]
+
     
 2.  Description: Umbra is a cunning general who possesses the ability to manipulate shadows, using them to create illusions and deceive enemies. With their shadow powers, Umbra can trick foes into attacking their own allies, sow confusion on the battlefield, and employ teleportation to evade attacks with unparalleled agility.
     
@@ -19,3 +22,5 @@
 Player Acquired Ability : [[Blink]]
 
 Archetype:  Ninja - high kinematics and potential, low musculature and tenacity, average reconstruction. This archetype is a quick and agile attacker that relies on speed and powerful abilities to take down enemies, but is vulnerable to attacks. 
+
+https://youtu.be/w0p-GTYJCVk 

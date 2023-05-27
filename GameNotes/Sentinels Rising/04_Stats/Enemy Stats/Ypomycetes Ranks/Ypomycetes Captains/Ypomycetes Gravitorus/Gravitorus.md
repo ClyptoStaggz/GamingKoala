@@ -1,6 +1,9 @@
 
 
 1.  Gravitorus 
+
+![[Pasted image 20230522125431.png|200]]
+
     
 2.  Description: Gravitorus is a formidable general who harnesses the power of gravity. This enemy has the unique ability to create a powerful gravitational field, allowing them to absorb kinetic damage and repulse it back at their opponents. They can manipulate gravity to control the battlefield, pulling enemies towards them or pushing them away, and immobilizing foes to make them vulnerable to attacks from their forces.
     
@@ -21,3 +24,6 @@
 Player Acquired Ability :   [[Kinectic Absorption]]
 
 Archetype: Glass Cannon: High Kinematics and Potential, low Musculature and Tenacity, moderate Reconstruction. This archetype is incredibly agile and can deal devastating damage from a distance, but is easily taken down by even minor attacks. 
+
+
+

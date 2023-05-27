@@ -1,4 +1,7 @@
 1.  Nebulon (Nebulon meaning "Mist" in Latin)
+
+![[Pasted image 20230522150006.png|200]]
+
     
 2.  Description: Nebulon is a cunning general who wields the power of spores, creating thick clouds that shroud the battlefield. These clouds obscure vision, making it difficult for enemies to see and breathe. Additionally, Sporos Nebulon utilizes his spores to disorient enemies, weakening their resolve and impairing their combat effectiveness.
     
