@@ -1,6 +1,6 @@
 1.  Umbra  (Umbra meaning "Shadow" in Latin)
 
-![[Pasted image 20230522131122.png|200]]
+![[Umbra.png|200]]
 
     
 2.  Description: Umbra is a cunning general who possesses the ability to manipulate shadows, using them to create illusions and deceive enemies. With their shadow powers, Umbra can trick foes into attacking their own allies, sow confusion on the battlefield, and employ teleportation to evade attacks with unparalleled agility.

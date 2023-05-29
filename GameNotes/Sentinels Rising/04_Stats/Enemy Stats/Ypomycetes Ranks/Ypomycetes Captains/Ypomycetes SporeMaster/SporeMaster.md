@@ -1,7 +1,7 @@
 
 1.  Sporemaster Cinerius (Cinerius derived from "cinerea," meaning "ashen" or "gray" in Latin)
 
-![[Pasted image 20230522144327.png|200]]
+![[SporeMaster.png|200]]
 
 
     
@@ -21,6 +21,6 @@
     
 4.  Tactics: Sporemaster Cinerius is a calculated and strategic enemy who excels in ranged combat. They rely on the deployment of spore bombs to inflict status ailments, disrupt enemy formations, and weaken opponents. The captain maintains distance from their adversaries, utilizing their toxic abilities and manipulation of spore clouds to control the battlefield. Sporemaster Cinerius takes advantage of the chaos caused by the status ailments to target vulnerable enemies and eliminate them swiftly.
 
-Player Acquired Ability : [[Nanite Plague]]
+Player Acquired Ability : [[RocketBarrage]]
 
 Archetype:  Technician - A support-focused archetype with high reconstruction and potential stats, allowing them to heal allies and deal damage from a distance. However, their musculature and tenacity stats are lower, making them vulnerable in close-range combat. 

@@ -1,6 +1,6 @@
 1.  Magnus (Regeneron meaning "Great Regenerator" in Latin)
 
-![[Pasted image 20230522140416.png|200]]
+![[Magnus.png|200]]
 
     
 2.  Description: Magnus is a formidable general who possesses the extraordinary power of rapid regeneration. With this ability, he can quickly replenish his forces, making it difficult for enemies to keep them down. Furthermore, he can utilize his restorative powers to heal his own injuries and continue fighting with unwavering resilience.

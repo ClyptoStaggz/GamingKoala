@@ -2,7 +2,7 @@
 
 1.  Nanomancer 
 
-![[Pasted image 20230522132005.png|200]] 
+![[NanoMancer.png|200]] 
 
     
 2.  Description: Nanomancer is a formidable captain who possesses the power to control and manipulate a vast swarm of nanobots. These microscopic machines respond to his commands, allowing him to unleash devastating attacks and deploy intricate defensive strategies.

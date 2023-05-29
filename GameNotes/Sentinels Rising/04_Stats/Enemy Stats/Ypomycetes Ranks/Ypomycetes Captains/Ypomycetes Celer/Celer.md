@@ -1,7 +1,7 @@
 
 1. Name: Celer (Celer meaning "Swift" in Latin)
 
-![[Pasted image 20230522132353.png|200]]
+![[Celer.png|325]]
 
 3. Description: Celer is an exceptional general who specializes in close combat and possesses unparalleled speed. His mastery of swift and precise movements allows him to swiftly engage enemies in close quarters, delivering devastating blows before swiftly evading counterattacks.
 

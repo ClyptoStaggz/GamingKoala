@@ -1,6 +1,6 @@
 1. Executor
 
-![[Pasted image 20230522131008.png|200]]
+![[Executor.png|200]]
 
     
 2.  Description: The Executor is a fearsome captain who wields a scythe formed from a swarm of nanobots. They command these nanobots with precision, unleashing devastating attacks and manipulating their foes' molecular structure. With their nanoscythe, the Executor can slice through enemies, deal destructive damage, and manipulate their surroundings to gain the upper hand.

@@ -1,6 +1,6 @@
 1.  Nebulon (Nebulon meaning "Mist" in Latin)
 
-![[Pasted image 20230522150006.png|200]]
+![[Nebulon.png|200]]
 
     
 2.  Description: Nebulon is a cunning general who wields the power of spores, creating thick clouds that shroud the battlefield. These clouds obscure vision, making it difficult for enemies to see and breathe. Additionally, Sporos Nebulon utilizes his spores to disorient enemies, weakening their resolve and impairing their combat effectiveness.
@@ -19,6 +19,6 @@
     
 4.  Tactics: Nebulon is a strategic and elusive enemy who capitalizes on the disorienting and debilitating effects of his spores. He strategically creates spore clouds to obscure vision, disrupt enemy coordination, and weaken their combat effectiveness. Sporos Nebulon prefers hit-and-run tactics, utilizing the confusion caused by the spore clouds to disorient enemies before launching targeted strikes from concealed positions.
 
-Player Acquired Ability : [[Ripcord]]
+Player Acquired Ability : [[Nanite Plague]]
 
 Archetype:  Ability cannon: High potential, low musculature, reconstruction, tenacity, and kinematics. This archetype is capable of dealing massive damage quickly, but is very vulnerable and must rely on mobility and positioning to survive. 

@@ -1,6 +1,6 @@
 1.  Illusio (Illusio meaning "illusion" or "deception" in Latin)
 
-![[Pasted image 20230522135515.png|200]]
+![[Illusio.png|200]]
 
     
 2.  Description: Illusio is a cunning and elusive leader who specializes in the art of deception. With the Mirror Image ability at their disposal, they can create convincing duplicates of themselves to confuse and divert enemy forces, gaining a strategic advantage on the battlefield.

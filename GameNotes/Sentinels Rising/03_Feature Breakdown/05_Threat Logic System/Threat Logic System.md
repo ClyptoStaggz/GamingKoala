@@ -18,6 +18,7 @@ TLS Features/Characteristics
 	6. Testing and Balancing: Thoroughly playtest and balance the adaptive AI system to ensure that the AI characters respond appropriately to different situations and that their adaptive behavior enhances gameplay depth and challenge.
     
 	7. Documentation and Showcase: Document the design and implementation of the adaptive AI system, emphasizing the innovation, uniqueness, and applicability to your game project. Showcase how the AI characters' adaptive behavior enhances player engagement, replayability, and overall gameplay experience.
+
 2. Team-based AI: Create AI systems that involve collaboration and coordination among multiple AI characters. Design AI teammates that can communicate, strategize, and work together effectively to achieve shared objectives.
 	1. 1. Define Team Roles: Start by defining specific roles for each AI teammate within the team. Roles can include a leader, attacker, defender, supporter, or any other role relevant to your game's mechanics and objectives.
     
@@ -34,6 +35,7 @@ TLS Features/Characteristics
 	7. Playtesting and Balancing: Thoroughly playtest the team-based AI system to ensure it provides engaging and challenging gameplay. Balance the AI teammates' abilities, coordination, and decision-making to provide an enjoyable experience for players.
     
 	8. AI vs. Player Interaction: Consider how the team-based AI system interacts with the player. It could involve creating challenging and dynamic encounters where the player must strategize and counter the AI team's coordinated actions.
+
 3. Dynamic Difficulty Adjustment: Develop AI systems that dynamically adjust the game's difficulty based on player performance or behavior. Demonstrate how the AI system can provide tailored challenges to players and adapt the gameplay experience to their skill level.
 	1. 1. Define Difficulty Factors: Identify the key factors that contribute to the game's difficulty. These factors can include enemy strength, player skill, time limits, puzzle complexity, or any other relevant gameplay element.
     
