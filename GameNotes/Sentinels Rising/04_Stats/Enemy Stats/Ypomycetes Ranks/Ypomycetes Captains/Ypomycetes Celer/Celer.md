@@ -1,9 +1,11 @@
 
 1. Name: Celer (Celer meaning "Swift" in Latin)
 
-2. Description: Celer is an exceptional general who specializes in close combat and possesses unparalleled speed. His mastery of swift and precise movements allows him to swiftly engage enemies in close quarters, delivering devastating blows before swiftly evading counterattacks.
+![[Celer.png|325]]
 
-3. Abilities:
+3. Description: Celer is an exceptional general who specializes in close combat and possesses unparalleled speed. His mastery of swift and precise movements allows him to swiftly engage enemies in close quarters, delivering devastating blows before swiftly evading counterattacks.
+
+4. Abilities:
 
    a. Swift Strikes: Celer is a master of close combat, utilizing lightning-fast strikes with incredible precision. He can unleash a series of rapid attacks, chaining together strikes with fluidity and finesse. These strikes inflict significant damage and are difficult to evade or block, posing a formidable challenge to his opponents.
 

@@ -1,6 +1,8 @@
 1.  Phasma (Phasma meaning "Specter" in Latin)
-    
-2.  Description: Phasma is an enigmatic general who possesses the power to phase through solid objects, rendering them intangible and difficult to contain. Their ghostly abilities instill fear in enemies, weakening their morale and disrupting their combat effectiveness.
+
+![[Phasma.png|200]]
+ 
+ 2.  Description: Phasma is an enigmatic general who possesses the power to phase through solid objects, rendering them intangible and difficult to contain. Their ghostly abilities instill fear in enemies, weakening their morale and disrupting their combat effectiveness.
     
 3.  Abilities:
     
