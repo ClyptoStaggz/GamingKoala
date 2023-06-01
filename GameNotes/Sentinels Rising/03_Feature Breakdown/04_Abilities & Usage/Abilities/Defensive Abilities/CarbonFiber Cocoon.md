@@ -1,3 +1,6 @@
+%%Suggestion: Apply a rapid recharge to the players' abilities (make the cost of this ability high)
+Maybe this can be an upgrade/assimilation feature%%
+
 
 Ability Name: CarbonFiber Cocoon
 

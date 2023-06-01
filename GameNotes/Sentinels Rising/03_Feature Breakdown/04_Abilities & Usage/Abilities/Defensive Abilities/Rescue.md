@@ -1,3 +1,6 @@
+%%Suggestion: When the player activates this ability, they send out a small AOE blast upon landing to stun enemies and allow the overshield to solidify/charge up before getting attacked
+(May just be a quality of life improvement or just pointing out the visual sequence of the animation)%%
+
 
 Ability Name: Rescue
 

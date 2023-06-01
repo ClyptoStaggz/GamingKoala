@@ -2,7 +2,7 @@ Ability Name: Kinetic Absorption
 
 Type: Defensive
 
-Effect: Kinetic Absorption empowers the player to absorb incoming damage up to a predetermined threshold. Upon activation, the player's defensive capabilities are enhanced, allowing them to absorb a certain amount of damage before reaching the threshold. Once the threshold is met, the absorbed energy is released in a powerful repulsive blast, forcefully pushing back all nearby enemies and creating a temporary zone of safety.
+Effect: Kinetic Absorption empowers the player to absorb incoming damage up to a predetermined threshold. This does not prevent the player from taking damage, but instead takes the incoming damage values and "stores them". Upon activation, the player's defensive capabilities are enhanced, allowing them to absorb a certain amount of damage before reaching the threshold. Once the threshold is met, the absorbed energy is released in a powerful repulsive blast, forcefully pushing back all nearby enemies and creating a temporary zone of safety.
 
 Scaling: As Kinetic Absorption ranks up, the threshold for damage absorption is lowered, allowing the player to withstand a greater amount of incoming damage before triggering the repulsive blast. The increased threshold provides players with enhanced durability and a longer window to absorb attacks. Additionally, at higher ranks, the repulsive blast becomes more potent, resulting in a larger and more forceful pushback of enemies, creating greater crowd control effects and creating more distance between the player and their adversaries.
 

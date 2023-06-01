@@ -1,3 +1,5 @@
+%%Similar to the Barrier, Does this stay with the player who deploys it or will it move with the player?%%
+
 Ability Name: Overshield
 
 Type: Defensive
