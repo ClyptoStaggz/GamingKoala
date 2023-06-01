@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sentinels Rising/03_Feature Breakdown/04_Abilities & Usage/Abilities/Defensive Abilities/Barrier.md",
+                "file": "Sentinels Rising/03_Feature Breakdown/04_Abilities & Usage/Abilities/Offensive Abilities/RocketBarrage.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sentinels Rising/03_Feature Breakdown/04_Abilities & Usage/Abilities/Defensive Abilities/Barrier.md",
+                "file": "Sentinels Rising/03_Feature Breakdown/04_Abilities & Usage/Abilities/Offensive Abilities/RocketBarrage.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sentinels Rising/03_Feature Breakdown/04_Abilities & Usage/Abilities/Defensive Abilities/Barrier.md",
+                "file": "Sentinels Rising/03_Feature Breakdown/04_Abilities & Usage/Abilities/Offensive Abilities/RocketBarrage.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sentinels Rising/03_Feature Breakdown/04_Abilities & Usage/Abilities/Defensive Abilities/Barrier.md"
+                "file": "Sentinels Rising/03_Feature Breakdown/04_Abilities & Usage/Abilities/Offensive Abilities/RocketBarrage.md"
               }
             }
           }
@@ -148,12 +148,21 @@
   },
   "active": "438b0ab47f356c0f",
   "lastOpenFiles": [
-    "Sentinels Rising/03_Feature Breakdown/04_Abilities & Usage/Abilities/Defensive Abilities/Undying.md",
+    "Sentinels Rising/03_Feature Breakdown/04_Abilities & Usage/Abilities/Offensive Abilities/NanoScythe.md",
+    "Sentinels Rising/03_Feature Breakdown/04_Abilities & Usage/Abilities/Offensive Abilities/NanoGrenade.md",
+    "Sentinels Rising/03_Feature Breakdown/04_Abilities & Usage/Abilities/Offensive Abilities/Nanodash Blast.md",
+    "Sentinels Rising/03_Feature Breakdown/04_Abilities & Usage/Abilities/Offensive Abilities/RocketBarrage.md",
+    "Sentinels Rising/03_Feature Breakdown/04_Abilities & Usage/Abilities/Offensive Abilities/Nanoblade Lance.md",
+    "Sentinels Rising/03_Feature Breakdown/04_Abilities & Usage/Abilities/Offensive Abilities/Nano Ray.md",
+    "Sentinels Rising/03_Feature Breakdown/04_Abilities & Usage/Abilities/Offensive Abilities/Nano Cannon.md",
+    "Sentinels Rising/03_Feature Breakdown/04_Abilities & Usage/Abilities/Offensive Abilities/Nanite Slash.md",
+    "Sentinels Rising/03_Feature Breakdown/04_Abilities & Usage/Abilities/Offensive Abilities/Laser Storm.md",
     "Sentinels Rising/03_Feature Breakdown/04_Abilities & Usage/Abilities/Offensive Abilities/Crushing Fist.md",
+    "Sentinels Rising/03_Feature Breakdown/04_Abilities & Usage/Abilities/Defensive Abilities/Barrier.md",
+    "Sentinels Rising/03_Feature Breakdown/04_Abilities & Usage/Abilities/Defensive Abilities/Undying.md",
     "Sentinels Rising/03_Feature Breakdown/04_Abilities & Usage/Abilities/Defensive Abilities/Rescue.md",
     "Sentinels Rising/03_Feature Breakdown/04_Abilities & Usage/Abilities/Defensive Abilities/Reduction Field.md",
     "Sentinels Rising/03_Feature Breakdown/04_Abilities & Usage/Abilities/Defensive Abilities/OverShield.md",
-    "Sentinels Rising/03_Feature Breakdown/04_Abilities & Usage/Abilities/Defensive Abilities/Barrier.md",
     "Sentinels Rising/03_Feature Breakdown/04_Abilities & Usage/Abilities/Defensive Abilities/Nanobot Ethereal Field.md",
     "Sentinels Rising/03_Feature Breakdown/04_Abilities & Usage/Abilities/Defensive Abilities/Kinectic Absorption.md",
     "Sentinels Rising/03_Feature Breakdown/04_Abilities & Usage/Abilities/Defensive Abilities/Heavy Standard.md",
@@ -179,22 +188,13 @@
     "Sentinels Rising/04_Stats/Enemy Stats/Ypomycetes Ranks/Ypomycetes Captains/Ypomycetes Nebulon/Nebulon.md",
     "Sentinels Rising/04_Stats/Enemy Stats/Ypomycetes Ranks/Ypomycetes Captains/Ypomycetes Phasma/Phasma.md",
     "Sentinels Rising/04_Stats/Enemy Stats/Ypomycetes Ranks/Ypomycetes Captains/Ypomycetes Magnus/Magnus.md",
-    "Sentinels Rising/04_Stats/Enemy Stats/Ypomycetes Ranks/Ypomycetes Captains/Ypomycetes Illusio/Illusio.md",
-    "Sentinels Rising/04_Stats/Enemy Stats/Ypomycetes Ranks/Ypomycetes Captains/Ypomycetes Gravitorus/Gravitorus.md",
-    "Sentinels Rising/04_Stats/Enemy Stats/Ypomycetes Ranks/Ypomycetes Captains/Ypomycetes Executor/Executor.md",
-    "Sentinels Rising/04_Stats/Enemy Stats/Ypomycetes Ranks/Ypomycetes Captains/Ypomycetes Celer/Celer.md",
-    "Sentinels Rising/04_Stats/Enemy Stats/Ypomycetes Ranks/Ypomycetes Lieutenants/Lieutenants.md",
-    "Sentinels Rising/04_Stats/Enemy Stats/Ypomycetes Ranks/Ypomycetes Grunts/Grunts.md",
     "Sentinels Rising/04_Stats/Enemy Stats/Ypomycetes Ranks/Ypomycetes Captains/Ypomycetes Umbra",
     "Sentinels Rising/04_Stats/Enemy Stats/Ypomycetes Ranks/Ypomycetes Captains/Ypomycetes SporeMaster",
     "Sentinels Rising/04_Stats/Enemy Stats/Ypomycetes Ranks/Ypomycetes Captains/Ypomycetes Phasma",
     "Sentinels Rising/04_Stats/Enemy Stats/Ypomycetes Ranks/Ypomycetes Captains/Ypomycetes Nebulon",
     "Sentinels Rising/04_Stats/Enemy Stats/Ypomycetes Ranks/Ypomycetes Captains/Ypomycetes Nanomancer",
     "Sentinels Rising/04_Stats/Enemy Stats/Ypomycetes Ranks/Ypomycetes Captains/Ypomycetes Magnus",
-    "Sentinels Rising/04_Stats/Enemy Stats/Enemy_files/00_Enemy Overview.md",
     "Sentinels Rising/03_Feature Breakdown/05_Threat Logic System/Dartboard AI Logic/Untitled.canvas",
-    "Sentinels Rising/03_Feature Breakdown/05_Threat Logic System/Threat Logic System.md",
-    "Sentinels Rising/03_Feature Breakdown/05_Threat Logic System/Ping.md",
     "Sentinels Rising/03_Feature Breakdown/04_Abilities & Usage/Abilities/Abilities.canvas",
     "Sentinels Rising/02_World Building/World Map/SectorMaps/Yellow Sector/Equipment/Yellow Sector Weapons & Armor.canvas",
     "Sentinels Rising/02_World Building/World Map/SectorMaps/Yellow Sector/Enemies/Yellow Sector Enemies.canvas",

@@ -1,3 +1,6 @@
+%%Is this another QTE or series of inputs the player will do? Or is this all predetermined and plays out like an animation?
+This ability might have the same problem we're trying to tackle with the slow-mo effect during co-op. It may take a second or two for this animation/QTE to play out, and the intended target could have moved by this point.%%
+
 Ability Name: Nanite Slash
 
 Type: Damage

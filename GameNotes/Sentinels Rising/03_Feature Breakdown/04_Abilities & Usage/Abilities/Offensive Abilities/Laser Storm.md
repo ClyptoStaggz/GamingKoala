@@ -1,3 +1,5 @@
+%%It sounds like this ability activates a QTE or, at the least, a button combo that needs to be repeated. Will these buttons change or stay constant? Can we indicate what those buttons might be? %%
+
 Ability Name: Laser Storm
 
 Type: Damage

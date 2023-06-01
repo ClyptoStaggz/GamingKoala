@@ -1,3 +1,5 @@
+%%Suggestion: At the higher ranks, we increase the duration in which the nanobots will stay on a previously targeted enemy. Meaning if the player were to target one enemy then sweep to the next, a certain amount of nanobots will stay behind, continuing to drain the enemy of health, before jumping to the newly targeted enemy%%
+
 Ability Name: Nanoray
 
 Type: Damage
