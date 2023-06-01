@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sentinels Rising/03_Feature Breakdown/04_Abilities & Usage/Abilities/Offensive Abilities/RocketBarrage.md",
+                "file": "Sentinels Rising/03_Feature Breakdown/04_Abilities & Usage/Abilities/Utility Abilities/Sonic Disruption.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sentinels Rising/03_Feature Breakdown/04_Abilities & Usage/Abilities/Offensive Abilities/RocketBarrage.md",
+                "file": "Sentinels Rising/03_Feature Breakdown/04_Abilities & Usage/Abilities/Utility Abilities/Sonic Disruption.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sentinels Rising/03_Feature Breakdown/04_Abilities & Usage/Abilities/Offensive Abilities/RocketBarrage.md",
+                "file": "Sentinels Rising/03_Feature Breakdown/04_Abilities & Usage/Abilities/Utility Abilities/Sonic Disruption.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sentinels Rising/03_Feature Breakdown/04_Abilities & Usage/Abilities/Offensive Abilities/RocketBarrage.md"
+                "file": "Sentinels Rising/03_Feature Breakdown/04_Abilities & Usage/Abilities/Utility Abilities/Sonic Disruption.md"
               }
             }
           }
@@ -148,10 +148,19 @@
   },
   "active": "438b0ab47f356c0f",
   "lastOpenFiles": [
+    "Sentinels Rising/03_Feature Breakdown/04_Abilities & Usage/Abilities/Utility Abilities/Ripcord.md",
+    "Sentinels Rising/03_Feature Breakdown/04_Abilities & Usage/Abilities/Utility Abilities/Net Blast.md",
+    "Sentinels Rising/03_Feature Breakdown/04_Abilities & Usage/Abilities/Utility Abilities/Nanobot Resuscitation.md",
+    "Sentinels Rising/03_Feature Breakdown/04_Abilities & Usage/Abilities/Utility Abilities/Nanobot Repair System.md",
+    "Sentinels Rising/03_Feature Breakdown/04_Abilities & Usage/Abilities/Utility Abilities/Nanobot Rejunvenation.md",
+    "Sentinels Rising/03_Feature Breakdown/04_Abilities & Usage/Abilities/Utility Abilities/Nanite Plague.md",
+    "Sentinels Rising/03_Feature Breakdown/04_Abilities & Usage/Abilities/Utility Abilities/Mirror Image.md",
+    "Sentinels Rising/03_Feature Breakdown/04_Abilities & Usage/Abilities/Utility Abilities/EMP Quake.md",
+    "Sentinels Rising/03_Feature Breakdown/04_Abilities & Usage/Abilities/Utility Abilities/Blink.md",
+    "Sentinels Rising/03_Feature Breakdown/04_Abilities & Usage/Abilities/Offensive Abilities/RocketBarrage.md",
     "Sentinels Rising/03_Feature Breakdown/04_Abilities & Usage/Abilities/Offensive Abilities/NanoScythe.md",
     "Sentinels Rising/03_Feature Breakdown/04_Abilities & Usage/Abilities/Offensive Abilities/NanoGrenade.md",
     "Sentinels Rising/03_Feature Breakdown/04_Abilities & Usage/Abilities/Offensive Abilities/Nanodash Blast.md",
-    "Sentinels Rising/03_Feature Breakdown/04_Abilities & Usage/Abilities/Offensive Abilities/RocketBarrage.md",
     "Sentinels Rising/03_Feature Breakdown/04_Abilities & Usage/Abilities/Offensive Abilities/Nanoblade Lance.md",
     "Sentinels Rising/03_Feature Breakdown/04_Abilities & Usage/Abilities/Offensive Abilities/Nano Ray.md",
     "Sentinels Rising/03_Feature Breakdown/04_Abilities & Usage/Abilities/Offensive Abilities/Nano Cannon.md",
@@ -165,9 +174,6 @@
     "Sentinels Rising/03_Feature Breakdown/04_Abilities & Usage/Abilities/Defensive Abilities/OverShield.md",
     "Sentinels Rising/03_Feature Breakdown/04_Abilities & Usage/Abilities/Defensive Abilities/Nanobot Ethereal Field.md",
     "Sentinels Rising/03_Feature Breakdown/04_Abilities & Usage/Abilities/Defensive Abilities/Kinectic Absorption.md",
-    "Sentinels Rising/03_Feature Breakdown/04_Abilities & Usage/Abilities/Defensive Abilities/Heavy Standard.md",
-    "Sentinels Rising/03_Feature Breakdown/04_Abilities & Usage/Abilities/Defensive Abilities/CarbonFiber Cocoon.md",
-    "Sentinels Rising/03_Feature Breakdown/04_Abilities & Usage/Abilities/Defensive Abilities/Blocked It.md",
     "Sentinels Rising/98_Files/Enemies/Pasted image 20230424174342.png",
     "Sentinels Rising/98_Files/Enemies/Pasted image 20230412223723.png",
     "Sentinels Rising/98_Files/Enemies",
@@ -182,12 +188,6 @@
     "Sentinels Rising/98_Files/Abilities, Skills, & Talents/Pasted image 20230417201913.png",
     "Sentinels Rising/98_Files/Abilities, Skills, & Talents/Pasted image 20230417201756.png",
     "Sentinels Rising/98_Files/Abilities, Skills, & Talents/Pasted image 20230417201641.png",
-    "Sentinels Rising/04_Stats/Enemy Stats/Ypomycetes Ranks/Ypomycetes Captains/Ypomycetes Umbra/Umbra.md",
-    "Sentinels Rising/04_Stats/Enemy Stats/Ypomycetes Ranks/Ypomycetes Captains/Ypomycetes SporeMaster/SporeMaster.md",
-    "Sentinels Rising/04_Stats/Enemy Stats/Ypomycetes Ranks/Ypomycetes Captains/Ypomycetes Nanomancer/NanoMancer.md",
-    "Sentinels Rising/04_Stats/Enemy Stats/Ypomycetes Ranks/Ypomycetes Captains/Ypomycetes Nebulon/Nebulon.md",
-    "Sentinels Rising/04_Stats/Enemy Stats/Ypomycetes Ranks/Ypomycetes Captains/Ypomycetes Phasma/Phasma.md",
-    "Sentinels Rising/04_Stats/Enemy Stats/Ypomycetes Ranks/Ypomycetes Captains/Ypomycetes Magnus/Magnus.md",
     "Sentinels Rising/04_Stats/Enemy Stats/Ypomycetes Ranks/Ypomycetes Captains/Ypomycetes Umbra",
     "Sentinels Rising/04_Stats/Enemy Stats/Ypomycetes Ranks/Ypomycetes Captains/Ypomycetes SporeMaster",
     "Sentinels Rising/04_Stats/Enemy Stats/Ypomycetes Ranks/Ypomycetes Captains/Ypomycetes Phasma",

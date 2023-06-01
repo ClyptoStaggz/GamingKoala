@@ -1,3 +1,5 @@
+%%What is the extent of capabilities that these decoys will have? Will they path directly towards enemies to overwhelm them? or will they go out in straight lines? 
+COD: Black Ops 3 had a feature like this that I believe handled it very well%%
 
 Ability Name: Mirror Image
 
