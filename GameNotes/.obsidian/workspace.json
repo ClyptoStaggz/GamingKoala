@@ -13,13 +13,41 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sentinels Rising/03_Feature Breakdown/04_Abilities & Usage/Abilities/Utility Abilities/Sonic Disruption.md",
+                "file": "Sentinels Rising/04_Stats/Enemy Stats/Ypomycetes Ranks/Ypomycetes Captains/Ypomycetes Celer/Celer.md",
                 "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "467466ef5f33caf6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sentinels Rising/04_Stats/Enemy Stats/Ypomycetes Ranks/Ypomycetes Lieutenants/Lieutenants.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "cd4c9f1a9b4d17e3",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Sentinels Rising/05_Weapons&Armor/Player Weapons & Armor/Player Weapons & Armor.canvas",
+                "viewState": {
+                  "x": 1020,
+                  "y": 223,
+                  "zoom": -0.7471502878516887
+                }
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sentinels Rising/03_Feature Breakdown/04_Abilities & Usage/Abilities/Utility Abilities/Sonic Disruption.md",
+                "file": "Sentinels Rising/04_Stats/Enemy Stats/Ypomycetes Ranks/Ypomycetes Lieutenants/Lieutenants.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sentinels Rising/03_Feature Breakdown/04_Abilities & Usage/Abilities/Utility Abilities/Sonic Disruption.md",
+                "file": "Sentinels Rising/04_Stats/Enemy Stats/Ypomycetes Ranks/Ypomycetes Lieutenants/Lieutenants.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sentinels Rising/03_Feature Breakdown/04_Abilities & Usage/Abilities/Utility Abilities/Sonic Disruption.md"
+                "file": "Sentinels Rising/04_Stats/Enemy Stats/Ypomycetes Ranks/Ypomycetes Lieutenants/Lieutenants.md"
               }
             }
           }
@@ -146,8 +174,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "438b0ab47f356c0f",
+  "active": "467466ef5f33caf6",
   "lastOpenFiles": [
+    "Sentinels Rising/05_Weapons&Armor/Player Weapons & Armor/Player Weapons & Armor.canvas",
+    "Sentinels Rising/04_Stats/Enemy Stats/Ypomycetes Ranks/Ypomycetes Lieutenants/Lieutenants.md",
+    "Sentinels Rising/04_Stats/Enemy Stats/Enemy_files/Arkai_Elder_Shell.png",
+    "Sentinels Rising/04_Stats/Enemy Stats/Ypomycetes Ranks/Ypomycetes Grunts/Grunts.md",
+    "Sentinels Rising/04_Stats/Enemy Stats/Ypomycetes Ranks/Ypomycetes Captains/Ypomycetes Celer/Celer.md",
+    "Sentinels Rising/03_Feature Breakdown/04_Abilities & Usage/Abilities/Utility Abilities/Sonic Disruption.md",
+    "Sentinels Rising/03_Feature Breakdown/04_Abilities & Usage/Abilities/Offensive Abilities/Nanite Slash.md",
+    "Sentinels Rising/03_Feature Breakdown/04_Abilities & Usage/Abilities/Offensive Abilities/Laser Storm.md",
+    "Sentinels Rising/03_Feature Breakdown/04_Abilities & Usage/Abilities/Offensive Abilities/Crushing Fist.md",
+    "Sentinels Rising/04_Stats/Enemy Stats/Ypomycetes Ranks/Ypomycetes Captains/Ypomycetes Illusio/Illusio.md",
     "Sentinels Rising/03_Feature Breakdown/04_Abilities & Usage/Abilities/Utility Abilities/Ripcord.md",
     "Sentinels Rising/03_Feature Breakdown/04_Abilities & Usage/Abilities/Utility Abilities/Net Blast.md",
     "Sentinels Rising/03_Feature Breakdown/04_Abilities & Usage/Abilities/Utility Abilities/Nanobot Resuscitation.md",
@@ -164,16 +202,7 @@
     "Sentinels Rising/03_Feature Breakdown/04_Abilities & Usage/Abilities/Offensive Abilities/Nanoblade Lance.md",
     "Sentinels Rising/03_Feature Breakdown/04_Abilities & Usage/Abilities/Offensive Abilities/Nano Ray.md",
     "Sentinels Rising/03_Feature Breakdown/04_Abilities & Usage/Abilities/Offensive Abilities/Nano Cannon.md",
-    "Sentinels Rising/03_Feature Breakdown/04_Abilities & Usage/Abilities/Offensive Abilities/Nanite Slash.md",
-    "Sentinels Rising/03_Feature Breakdown/04_Abilities & Usage/Abilities/Offensive Abilities/Laser Storm.md",
-    "Sentinels Rising/03_Feature Breakdown/04_Abilities & Usage/Abilities/Offensive Abilities/Crushing Fist.md",
     "Sentinels Rising/03_Feature Breakdown/04_Abilities & Usage/Abilities/Defensive Abilities/Barrier.md",
-    "Sentinels Rising/03_Feature Breakdown/04_Abilities & Usage/Abilities/Defensive Abilities/Undying.md",
-    "Sentinels Rising/03_Feature Breakdown/04_Abilities & Usage/Abilities/Defensive Abilities/Rescue.md",
-    "Sentinels Rising/03_Feature Breakdown/04_Abilities & Usage/Abilities/Defensive Abilities/Reduction Field.md",
-    "Sentinels Rising/03_Feature Breakdown/04_Abilities & Usage/Abilities/Defensive Abilities/OverShield.md",
-    "Sentinels Rising/03_Feature Breakdown/04_Abilities & Usage/Abilities/Defensive Abilities/Nanobot Ethereal Field.md",
-    "Sentinels Rising/03_Feature Breakdown/04_Abilities & Usage/Abilities/Defensive Abilities/Kinectic Absorption.md",
     "Sentinels Rising/98_Files/Enemies/Pasted image 20230424174342.png",
     "Sentinels Rising/98_Files/Enemies/Pasted image 20230412223723.png",
     "Sentinels Rising/98_Files/Enemies",
@@ -187,7 +216,6 @@
     "Sentinels Rising/98_Files/Abilities, Skills, & Talents/Pasted image 20230417202036.png",
     "Sentinels Rising/98_Files/Abilities, Skills, & Talents/Pasted image 20230417201913.png",
     "Sentinels Rising/98_Files/Abilities, Skills, & Talents/Pasted image 20230417201756.png",
-    "Sentinels Rising/98_Files/Abilities, Skills, & Talents/Pasted image 20230417201641.png",
     "Sentinels Rising/04_Stats/Enemy Stats/Ypomycetes Ranks/Ypomycetes Captains/Ypomycetes Umbra",
     "Sentinels Rising/04_Stats/Enemy Stats/Ypomycetes Ranks/Ypomycetes Captains/Ypomycetes SporeMaster",
     "Sentinels Rising/04_Stats/Enemy Stats/Ypomycetes Ranks/Ypomycetes Captains/Ypomycetes Phasma",
@@ -202,7 +230,6 @@
     "Sentinels Rising/02_World Building/World Map/SectorMaps/White Sector/Equipment/White Sector Weapons & Armor.canvas",
     "Sentinels Rising/02_World Building/World Map/SectorMaps/White Sector/Enemies/White Sector Enemies.canvas",
     "Sentinels Rising/02_World Building/World Map/SectorMaps/White Sector/Sector Canvas.canvas",
-    "Sentinels Rising/02_World Building/World Map/SectorMaps/Red Sector/Equipment/Red Sector Weapons & Armor.canvas",
-    "Sentinels Rising/02_World Building/World Map/SectorMaps/Red Sector/Enemies/Red Sector Enemies.canvas"
+    "Sentinels Rising/02_World Building/World Map/SectorMaps/Red Sector/Equipment/Red Sector Weapons & Armor.canvas"
   ]
 }
