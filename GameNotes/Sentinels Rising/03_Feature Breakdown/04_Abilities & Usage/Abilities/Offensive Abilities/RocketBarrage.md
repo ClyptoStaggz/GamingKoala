@@ -1,3 +1,6 @@
+%%This might be a larger discussion, but do we have the player normally launching themselves in the air?
+I only ask because if we aren't normally having the player jump that high from a standstill, then we would need to incorporate ADS somehow to get that verticality.%%
+
 Ability Name: Rocket Barrage
 
 Type: Damage

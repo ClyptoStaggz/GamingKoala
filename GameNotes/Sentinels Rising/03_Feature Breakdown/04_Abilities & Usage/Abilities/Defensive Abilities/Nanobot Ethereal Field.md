@@ -1,3 +1,5 @@
+%%If I'm interpreting this correctly, I'm imagining this as not a complete forcefield. But instead as particular an "invisible barrier" that when an attack hits it, nanobots will localize in that section to block the incoming damage. And the nanobots can withstand a certain amount of damage before being unable to localize anymore defenses. %%
+
 
 Ability Name: Nanobot Ethereal Field
 

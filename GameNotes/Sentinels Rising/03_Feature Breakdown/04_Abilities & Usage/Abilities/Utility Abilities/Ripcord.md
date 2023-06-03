@@ -1,3 +1,5 @@
+%%Even ChatGPT thinks ADS means 'Aim Down Sights' lol
+Also, locking the player into ADS might take them too far away from the fight if they were intending to stay in it. %%
 
 Ability Name: RipCord
 

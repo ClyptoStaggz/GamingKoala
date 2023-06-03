@@ -1,5 +1,7 @@
+%%In co-op, I imagine allies won't be affected by this?%%
 
-- Ability Name: Sonic Disruption
+
+Ability Name: Sonic Disruption
 
 Type: Debuff
 

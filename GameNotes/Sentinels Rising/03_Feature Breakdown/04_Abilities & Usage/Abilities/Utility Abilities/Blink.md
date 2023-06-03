@@ -1,3 +1,6 @@
+%%Though it's already probably intended, it should be specified that this ability won't grant the player to teleport through walls or other solid objects. 
+Additionally, we should specify how the player chooses where they'll teleport to. Given our POV and combat stance, what would this look like for the player?%%
+
 Ability Name: Blink
 
 Type: Utility

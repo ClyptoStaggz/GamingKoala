@@ -11,8 +11,12 @@
             "id": "438b0ab47f356c0f",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Sentinels Rising/03_Feature Breakdown/04_Abilities & Usage/Abilities/Utility Abilities/Sonic Disruption.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sentinels Rising/04_Stats/Enemy Stats/Ypomycetes Ranks/Ypomycetes Captains/Ypomycetes Celer/Celer.md",
+                "file": "Sentinels Rising/03_Feature Breakdown/04_Abilities & Usage/Abilities/Utility Abilities/Sonic Disruption.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sentinels Rising/04_Stats/Enemy Stats/Ypomycetes Ranks/Ypomycetes Captains/Ypomycetes Celer/Celer.md",
+                "file": "Sentinels Rising/03_Feature Breakdown/04_Abilities & Usage/Abilities/Utility Abilities/Sonic Disruption.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -121,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sentinels Rising/04_Stats/Enemy Stats/Ypomycetes Ranks/Ypomycetes Captains/Ypomycetes Celer/Celer.md"
+                "file": "Sentinels Rising/03_Feature Breakdown/04_Abilities & Usage/Abilities/Utility Abilities/Sonic Disruption.md"
               }
             }
           }
@@ -142,62 +146,63 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6a3d0ee2c7751de3",
+  "active": "438b0ab47f356c0f",
   "lastOpenFiles": [
-    "Sentinels Rising/02_World Building/World Map/SectorMaps/Blue Sector/Equipment/EquipmentCanvas.canvas",
-    "Sentinels Rising/02_World Building/World Map/SectorMaps/Blue Sector/Equipment/Armor/Blue Sector Armor Template.md",
-    "Sentinels Rising/02_World Building/World Map/SectorMaps/Blue Sector/Enemies/Enemies/MossbackGuardian/MossBackGuardian.md",
-    "Sentinels Rising/02_World Building/World Map/SectorMaps/Blue Sector/Enemies/Enemies/Ruin_Strider/Ruin Strider.md",
-    "Sentinels Rising/02_World Building/World Map/SectorMaps/Blue Sector/Enemies/Enemies/Ruin_Strider/Ruin Strider.png",
-    "Sentinels Rising/03_Feature Breakdown/04_Abilities & Usage/Abilities/Abilities Overview.md",
+    "Sentinels Rising/03_Feature Breakdown/04_Abilities & Usage/Abilities/Utility Abilities/Ripcord.md",
+    "Sentinels Rising/03_Feature Breakdown/04_Abilities & Usage/Abilities/Utility Abilities/Net Blast.md",
+    "Sentinels Rising/03_Feature Breakdown/04_Abilities & Usage/Abilities/Utility Abilities/Nanobot Resuscitation.md",
+    "Sentinels Rising/03_Feature Breakdown/04_Abilities & Usage/Abilities/Utility Abilities/Nanobot Repair System.md",
+    "Sentinels Rising/03_Feature Breakdown/04_Abilities & Usage/Abilities/Utility Abilities/Nanobot Rejunvenation.md",
+    "Sentinels Rising/03_Feature Breakdown/04_Abilities & Usage/Abilities/Utility Abilities/Nanite Plague.md",
+    "Sentinels Rising/03_Feature Breakdown/04_Abilities & Usage/Abilities/Utility Abilities/Mirror Image.md",
+    "Sentinels Rising/03_Feature Breakdown/04_Abilities & Usage/Abilities/Utility Abilities/EMP Quake.md",
     "Sentinels Rising/03_Feature Breakdown/04_Abilities & Usage/Abilities/Utility Abilities/Blink.md",
-    "Sentinels Rising/03_Feature Breakdown/04_Abilities & Usage/Abilities/Abilities.canvas",
-    "Sentinels Rising/03_Feature Breakdown/04_Abilities & Usage/Abilities/Defensive Abilities/CarbonFiber Cocoon.md",
+    "Sentinels Rising/03_Feature Breakdown/04_Abilities & Usage/Abilities/Offensive Abilities/RocketBarrage.md",
+    "Sentinels Rising/03_Feature Breakdown/04_Abilities & Usage/Abilities/Offensive Abilities/NanoScythe.md",
+    "Sentinels Rising/03_Feature Breakdown/04_Abilities & Usage/Abilities/Offensive Abilities/NanoGrenade.md",
+    "Sentinels Rising/03_Feature Breakdown/04_Abilities & Usage/Abilities/Offensive Abilities/Nanodash Blast.md",
+    "Sentinels Rising/03_Feature Breakdown/04_Abilities & Usage/Abilities/Offensive Abilities/Nanoblade Lance.md",
+    "Sentinels Rising/03_Feature Breakdown/04_Abilities & Usage/Abilities/Offensive Abilities/Nano Ray.md",
+    "Sentinels Rising/03_Feature Breakdown/04_Abilities & Usage/Abilities/Offensive Abilities/Nano Cannon.md",
+    "Sentinels Rising/03_Feature Breakdown/04_Abilities & Usage/Abilities/Offensive Abilities/Nanite Slash.md",
+    "Sentinels Rising/03_Feature Breakdown/04_Abilities & Usage/Abilities/Offensive Abilities/Laser Storm.md",
+    "Sentinels Rising/03_Feature Breakdown/04_Abilities & Usage/Abilities/Offensive Abilities/Crushing Fist.md",
+    "Sentinels Rising/03_Feature Breakdown/04_Abilities & Usage/Abilities/Defensive Abilities/Barrier.md",
     "Sentinels Rising/03_Feature Breakdown/04_Abilities & Usage/Abilities/Defensive Abilities/Undying.md",
     "Sentinels Rising/03_Feature Breakdown/04_Abilities & Usage/Abilities/Defensive Abilities/Rescue.md",
     "Sentinels Rising/03_Feature Breakdown/04_Abilities & Usage/Abilities/Defensive Abilities/Reduction Field.md",
     "Sentinels Rising/03_Feature Breakdown/04_Abilities & Usage/Abilities/Defensive Abilities/OverShield.md",
     "Sentinels Rising/03_Feature Breakdown/04_Abilities & Usage/Abilities/Defensive Abilities/Nanobot Ethereal Field.md",
     "Sentinels Rising/03_Feature Breakdown/04_Abilities & Usage/Abilities/Defensive Abilities/Kinectic Absorption.md",
-    "Sentinels Rising/03_Feature Breakdown/04_Abilities & Usage/Abilities/Defensive Abilities/Heavy Standard.md",
-    "Sentinels Rising/03_Feature Breakdown/04_Abilities & Usage/Abilities/Defensive Abilities/Barrier.md",
-    "Pasted image 20230530210408.png",
-    "Sentinels Rising/02_World Building/World Map/SectorMaps/Blue Sector/Sector Canvas.canvas",
-    "Sentinels Rising/03_Feature Breakdown/04_Abilities & Usage/Abilities/Defensive Abilities/Blocked It.md",
-    "Sentinels Rising/02_World Building/World Map/WorldMap Canvas.canvas",
-    "Sentinels Rising/02_World Building/World Map/World Map.md",
+    "Sentinels Rising/98_Files/Enemies/Pasted image 20230424174342.png",
+    "Sentinels Rising/98_Files/Enemies/Pasted image 20230412223723.png",
+    "Sentinels Rising/98_Files/Enemies",
+    "Sentinels Rising/98_Files/Abilities, Skills, & Talents/helix3.webm",
+    "Sentinels Rising/98_Files/Abilities, Skills, & Talents/helix2.webm",
+    "Sentinels Rising/98_Files/Abilities, Skills, & Talents/double helix.webm",
+    "Sentinels Rising/98_Files/Abilities, Skills, & Talents/abilityhelix1 1.jpg",
+    "Sentinels Rising/98_Files/Abilities, Skills, & Talents/Pasted image 20230424162937.png",
+    "Sentinels Rising/98_Files/Abilities, Skills, & Talents/Pasted image 20230424162930.png",
+    "Sentinels Rising/98_Files/Abilities, Skills, & Talents/Pasted image 20230424162924.png",
+    "Sentinels Rising/98_Files/Abilities, Skills, & Talents/Pasted image 20230417202036.png",
+    "Sentinels Rising/98_Files/Abilities, Skills, & Talents/Pasted image 20230417201913.png",
+    "Sentinels Rising/98_Files/Abilities, Skills, & Talents/Pasted image 20230417201756.png",
+    "Sentinels Rising/98_Files/Abilities, Skills, & Talents/Pasted image 20230417201641.png",
+    "Sentinels Rising/04_Stats/Enemy Stats/Ypomycetes Ranks/Ypomycetes Captains/Ypomycetes Umbra",
+    "Sentinels Rising/04_Stats/Enemy Stats/Ypomycetes Ranks/Ypomycetes Captains/Ypomycetes SporeMaster",
+    "Sentinels Rising/04_Stats/Enemy Stats/Ypomycetes Ranks/Ypomycetes Captains/Ypomycetes Phasma",
+    "Sentinels Rising/04_Stats/Enemy Stats/Ypomycetes Ranks/Ypomycetes Captains/Ypomycetes Nebulon",
+    "Sentinels Rising/04_Stats/Enemy Stats/Ypomycetes Ranks/Ypomycetes Captains/Ypomycetes Nanomancer",
+    "Sentinels Rising/04_Stats/Enemy Stats/Ypomycetes Ranks/Ypomycetes Captains/Ypomycetes Magnus",
     "Sentinels Rising/03_Feature Breakdown/05_Threat Logic System/Dartboard AI Logic/Untitled.canvas",
-    "GameAIPro_Chapter29_Hierarchical_AI_for_Multiplayer_Bots_in_Killzone_3.pdf",
-    "GameAIPro_Chapter28_Beyond_the_Kung-Fu_Circle_A_Flexible_System_for_Managing_NPC_Attacks.pdf",
-    "Sentinels Rising/03_Feature Breakdown/05_Threat Logic System/Dartboard AI Logic/AI Systems.md",
-    "Sentinels Rising/04_Stats/Enemy Stats/Ypomycetes Ranks/Ypomycetes Captains/Ypomycetes Celer/Celer.md",
-    "Sentinels Rising/03_Feature Breakdown/05_Threat Logic System/Dartboard AI Logic",
-    "Sentinels Rising/02_World Building/World Map/SectorMaps/Blue Sector/Files/EnvironmentConcepts/Pasted image 20230529135536.png",
-    "Sentinels Rising/02_World Building/World Map/SectorMaps/Blue Sector/Files/EnvironmentConcepts/Pasted image 20230529182551.png",
-    "Sentinels Rising/02_World Building/World Map/SectorMaps/Blue Sector/Files/EnvironmentConcepts/Pasted image 20230529182542.png",
-    "Sentinels Rising/02_World Building/World Map/SectorMaps/Blue Sector/Files/EnvironmentConcepts/Pasted image 20230529181846.png",
-    "Sentinels Rising/02_World Building/World Map/SectorMaps/Blue Sector/Files/EnvironmentConcepts/Pasted image 20230529181713.png",
-    "Sentinels Rising/02_World Building/World Map/SectorMaps/Blue Sector/Files/EnvironmentConcepts/Pasted image 20230529181413.png",
-    "Sentinels Rising/02_World Building/World Map/SectorMaps/Blue Sector/Files/EnvironmentConcepts/Pasted image 20230529181401.png",
-    "Sentinels Rising/02_World Building/World Map/SectorMaps/Blue Sector/Files/EnvironmentConcepts/Pasted image 20230529135549.png",
-    "Sentinels Rising/02_World Building/World Map/SectorMaps/Blue Sector/Enemies/Enemies/Xenolith Colossus/Xenolith Colossus.md",
-    "Sentinels Rising/02_World Building/World Map/SectorMaps/Blue Sector/Enemies/Enemies/Verdant Shellcrab/VerdantShellcrab.md",
-    "Sentinels Rising/02_World Building/World Map/SectorMaps/Blue Sector/Enemies/Enemies/Enemy Template.md",
-    "Sentinels Rising/02_World Building/World Map/SectorMaps/Blue Sector/Enemies/Enemies/Xenolith Colossus",
-    "Sentinels Rising/02_World Building/World Map/SectorMaps/Blue Sector/Enemies/Enemies/MossbackGuardian/Files/Images",
-    "Sentinels Rising/02_World Building/World Map/SectorMaps/Blue Sector/Enemies/Enemies/MossbackGuardian/Files",
-    "Sentinels Rising/04_Stats/Enemy Stats/Enemy_files/00_Enemy Overview.md",
-    "Sentinels Rising/02_World Building/World Map/SectorMaps/Blue Sector/Enemies/Enemies/Verdant Shellcrab",
-    "Sentinels Rising/03_Feature Breakdown/04_Abilities & Usage/Abilities/Utility Abilities/Sonic Disruption.md",
-    "Sentinels Rising/02_World Building/World Map/SectorMaps/Blue Sector/Enemies/Enemies/MossbackGuardian",
-    "Sentinels Rising/02_World Building/World Map/SectorMaps/Blue Sector/Enemies/Enemies/Ruin_Strider",
-    "Sentinels Rising/02_World Building/World Map/SectorMaps/Blue Sector/Equipment/Weapons/Blue Sector Weapons Template.md",
-    "Sentinels Rising/02_World Building/World Map/SectorMaps/Blue Sector/Enemies/Blue Sector Enemies.canvas",
-    "Sentinels Rising/02_World Building/World Map/SectorMaps/Blue Sector/Files/EnvironmentConcepts",
-    "Sentinels Rising/02_World Building/World Map/SectorMaps/Nexus/02_Nexus.canvas",
-    "Sentinels Rising/02_World Building/World Map/Red Sector.md",
-    "Sentinels Rising/02_World Building/World Map/SectorMaps/Purple Sector/Sector Canvas.canvas",
-    "Sentinels Rising/04_Stats/Enemy Stats/Base Enemies.canvas",
-    "Sentinels Rising/05_Weapons&Armor/Player Weapons & Armor/Player Weapons & Armor.canvas"
+    "Sentinels Rising/03_Feature Breakdown/04_Abilities & Usage/Abilities/Abilities.canvas",
+    "Sentinels Rising/02_World Building/World Map/SectorMaps/Yellow Sector/Equipment/Yellow Sector Weapons & Armor.canvas",
+    "Sentinels Rising/02_World Building/World Map/SectorMaps/Yellow Sector/Enemies/Yellow Sector Enemies.canvas",
+    "Sentinels Rising/02_World Building/World Map/SectorMaps/Yellow Sector/Sector Canvas.canvas",
+    "Sentinels Rising/02_World Building/World Map/SectorMaps/White Sector/Equipment/White Sector Weapons & Armor.canvas",
+    "Sentinels Rising/02_World Building/World Map/SectorMaps/White Sector/Enemies/White Sector Enemies.canvas",
+    "Sentinels Rising/02_World Building/World Map/SectorMaps/White Sector/Sector Canvas.canvas",
+    "Sentinels Rising/02_World Building/World Map/SectorMaps/Red Sector/Equipment/Red Sector Weapons & Armor.canvas",
+    "Sentinels Rising/02_World Building/World Map/SectorMaps/Red Sector/Enemies/Red Sector Enemies.canvas"
   ]
 }

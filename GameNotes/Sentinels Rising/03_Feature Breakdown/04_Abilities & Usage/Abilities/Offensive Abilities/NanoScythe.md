@@ -1,3 +1,5 @@
+%%Is there a "bleeding effect" on this ability?%%
+
 Ability Name: Nanoscythe
 
 Type: Damage

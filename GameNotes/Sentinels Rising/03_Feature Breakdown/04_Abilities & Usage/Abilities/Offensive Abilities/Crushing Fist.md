@@ -1,3 +1,6 @@
+%%Does the player have to lock onto a target first to use this ability? Or will the ability automatically chose an enemy in front of the player to attack?
+Can this ability be activated in the air from using ADS? If so, would need further clarification on the above and what visuals the player will need to see so they can more accurately place this attack%%
+
 Ability Name: Crushing Fist
 
 Type: Damage
