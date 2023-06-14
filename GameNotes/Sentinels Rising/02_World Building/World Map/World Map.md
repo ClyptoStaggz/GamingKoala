@@ -29,6 +29,21 @@ The wildlife in this area is incredibly diverse, with creatures ranging from sma
 
 The overgrown structures themselves are an architectural marvel, with crumbling walls and twisted metal that has taken on a life of its own as vines and moss have overgrown them. The buildings have been transformed by the elements and the creatures that call them home, with new structures and modifications creating a patchwork of living spaces for the inhabitants.
 
+**Mossback Guardian**
+
+
+
+**Ruin Strider**
+
+
+
+**Verdant Shellcrab**
+
+
+**Xenolith Colossus**
+
+
+
 
 ### White Sector
 This section of the planet is a place of ancient wonder, covered with a multitude of towering, temple-like structures. The buildings are made of a variety of materials, from stone to metal, and are covered in intricate carvings and symbols that tell the story of an enigmatic and long-lost civilization known as the Arkai.

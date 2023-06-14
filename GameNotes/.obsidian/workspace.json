@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sentinels Rising/04_Stats/Enemy Stats/Ypomycetes Ranks/Ypomycetes Lieutenants/Lieutenants.md",
+                "file": "Sentinels Rising/02_World Building/World Map/SectorMaps/Blue Sector/Enemies/Enemies/Xenolith Colossus/Xenolith Colossus.md",
                 "mode": "source",
                 "source": false
               }
@@ -47,7 +47,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -113,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sentinels Rising/04_Stats/Enemy Stats/Ypomycetes Ranks/Ypomycetes Lieutenants/Lieutenants.md",
+                "file": "Sentinels Rising/05_Weapons&Armor/Player Weapons & Armor/Player Weapons & Armor.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sentinels Rising/04_Stats/Enemy Stats/Ypomycetes Ranks/Ypomycetes Lieutenants/Lieutenants.md",
+                "file": "Sentinels Rising/05_Weapons&Armor/Player Weapons & Armor/Player Weapons & Armor.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sentinels Rising/04_Stats/Enemy Stats/Ypomycetes Ranks/Ypomycetes Lieutenants/Lieutenants.md"
+                "file": "Sentinels Rising/05_Weapons&Armor/Player Weapons & Armor/Player Weapons & Armor.canvas"
               }
             }
           }
@@ -174,10 +174,26 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "467466ef5f33caf6",
+  "active": "cd4c9f1a9b4d17e3",
   "lastOpenFiles": [
-    "Sentinels Rising/05_Weapons&Armor/Player Weapons & Armor/Player Weapons & Armor.canvas",
+    "Sentinels Rising/02_World Building/World Map/SectorMaps/Blue Sector/Enemies/Enemies/Xenolith Colossus/Xenolith Colossus.md",
+    "Sentinels Rising/02_World Building/World Map/SectorMaps/Blue Sector/Enemies/Enemies/MossbackGuardian/MossBackGuardian.md",
+    "Sentinels Rising/02_World Building/World Map/SectorMaps/Blue Sector/Enemies/Enemies/Ruin_Strider/Ruin Strider.md",
+    "Sentinels Rising/02_World Building/World Map/SectorMaps/Blue Sector/Enemies/Enemies/Verdant Shellcrab/VerdantShellcrab.md",
+    "Sentinels Rising/02_World Building/World Map/SectorMaps/Blue Sector/Enemies/Enemies/Verdant Shellcrab/VerdantShellcrab.png",
+    "Sentinels Rising/04_Stats/Enemy Stats/Enemy_files/00_Enemy Overview.md",
+    "Sentinels Rising/02_World Building/World Map/World Map.md",
+    "Sentinels Rising/02_World Building/World Map/SectorMaps/Blue Sector/Enemies/Enemies/Enemy Template.md",
+    "Sentinels Rising/02_World Building/World Map/Lore/Language.md",
+    "Sentinels Rising/02_World Building/World Map/Lore/History.md",
+    "Sentinels Rising/02_World Building/World Map/Lore/Environment.md",
+    "Sentinels Rising/02_World Building/World Map/Lore/Culture.md",
+    "Sentinels Rising/02_World Building/World Map/SectorMaps/Blue Sector/Sector Canvas.canvas",
+    "Sentinels Rising/02_World Building/World Map/SectorMaps/Blue Sector/Enemies/Enemies/MossbackGuardian/Files/Images/MuderMoth_1.png",
+    "GameAIPro_Chapter28_Beyond_the_Kung-Fu_Circle_A_Flexible_System_for_Managing_NPC_Attacks.pdf",
+    "Sentinels Rising/02_World Building/World Map/WorldMap Canvas.canvas",
     "Sentinels Rising/04_Stats/Enemy Stats/Ypomycetes Ranks/Ypomycetes Lieutenants/Lieutenants.md",
+    "Sentinels Rising/05_Weapons&Armor/Player Weapons & Armor/Player Weapons & Armor.canvas",
     "Sentinels Rising/04_Stats/Enemy Stats/Enemy_files/Arkai_Elder_Shell.png",
     "Sentinels Rising/04_Stats/Enemy Stats/Ypomycetes Ranks/Ypomycetes Grunts/Grunts.md",
     "Sentinels Rising/04_Stats/Enemy Stats/Ypomycetes Ranks/Ypomycetes Captains/Ypomycetes Celer/Celer.md",
@@ -192,17 +208,6 @@
     "Sentinels Rising/03_Feature Breakdown/04_Abilities & Usage/Abilities/Utility Abilities/Nanobot Repair System.md",
     "Sentinels Rising/03_Feature Breakdown/04_Abilities & Usage/Abilities/Utility Abilities/Nanobot Rejunvenation.md",
     "Sentinels Rising/03_Feature Breakdown/04_Abilities & Usage/Abilities/Utility Abilities/Nanite Plague.md",
-    "Sentinels Rising/03_Feature Breakdown/04_Abilities & Usage/Abilities/Utility Abilities/Mirror Image.md",
-    "Sentinels Rising/03_Feature Breakdown/04_Abilities & Usage/Abilities/Utility Abilities/EMP Quake.md",
-    "Sentinels Rising/03_Feature Breakdown/04_Abilities & Usage/Abilities/Utility Abilities/Blink.md",
-    "Sentinels Rising/03_Feature Breakdown/04_Abilities & Usage/Abilities/Offensive Abilities/RocketBarrage.md",
-    "Sentinels Rising/03_Feature Breakdown/04_Abilities & Usage/Abilities/Offensive Abilities/NanoScythe.md",
-    "Sentinels Rising/03_Feature Breakdown/04_Abilities & Usage/Abilities/Offensive Abilities/NanoGrenade.md",
-    "Sentinels Rising/03_Feature Breakdown/04_Abilities & Usage/Abilities/Offensive Abilities/Nanodash Blast.md",
-    "Sentinels Rising/03_Feature Breakdown/04_Abilities & Usage/Abilities/Offensive Abilities/Nanoblade Lance.md",
-    "Sentinels Rising/03_Feature Breakdown/04_Abilities & Usage/Abilities/Offensive Abilities/Nano Ray.md",
-    "Sentinels Rising/03_Feature Breakdown/04_Abilities & Usage/Abilities/Offensive Abilities/Nano Cannon.md",
-    "Sentinels Rising/03_Feature Breakdown/04_Abilities & Usage/Abilities/Defensive Abilities/Barrier.md",
     "Sentinels Rising/98_Files/Enemies/Pasted image 20230424174342.png",
     "Sentinels Rising/98_Files/Enemies/Pasted image 20230412223723.png",
     "Sentinels Rising/98_Files/Enemies",
@@ -214,22 +219,17 @@
     "Sentinels Rising/98_Files/Abilities, Skills, & Talents/Pasted image 20230424162930.png",
     "Sentinels Rising/98_Files/Abilities, Skills, & Talents/Pasted image 20230424162924.png",
     "Sentinels Rising/98_Files/Abilities, Skills, & Talents/Pasted image 20230417202036.png",
-    "Sentinels Rising/98_Files/Abilities, Skills, & Talents/Pasted image 20230417201913.png",
-    "Sentinels Rising/98_Files/Abilities, Skills, & Talents/Pasted image 20230417201756.png",
     "Sentinels Rising/04_Stats/Enemy Stats/Ypomycetes Ranks/Ypomycetes Captains/Ypomycetes Umbra",
     "Sentinels Rising/04_Stats/Enemy Stats/Ypomycetes Ranks/Ypomycetes Captains/Ypomycetes SporeMaster",
     "Sentinels Rising/04_Stats/Enemy Stats/Ypomycetes Ranks/Ypomycetes Captains/Ypomycetes Phasma",
     "Sentinels Rising/04_Stats/Enemy Stats/Ypomycetes Ranks/Ypomycetes Captains/Ypomycetes Nebulon",
     "Sentinels Rising/04_Stats/Enemy Stats/Ypomycetes Ranks/Ypomycetes Captains/Ypomycetes Nanomancer",
-    "Sentinels Rising/04_Stats/Enemy Stats/Ypomycetes Ranks/Ypomycetes Captains/Ypomycetes Magnus",
     "Sentinels Rising/03_Feature Breakdown/05_Threat Logic System/Dartboard AI Logic/Untitled.canvas",
     "Sentinels Rising/03_Feature Breakdown/04_Abilities & Usage/Abilities/Abilities.canvas",
     "Sentinels Rising/02_World Building/World Map/SectorMaps/Yellow Sector/Equipment/Yellow Sector Weapons & Armor.canvas",
     "Sentinels Rising/02_World Building/World Map/SectorMaps/Yellow Sector/Enemies/Yellow Sector Enemies.canvas",
     "Sentinels Rising/02_World Building/World Map/SectorMaps/Yellow Sector/Sector Canvas.canvas",
     "Sentinels Rising/02_World Building/World Map/SectorMaps/White Sector/Equipment/White Sector Weapons & Armor.canvas",
-    "Sentinels Rising/02_World Building/World Map/SectorMaps/White Sector/Enemies/White Sector Enemies.canvas",
-    "Sentinels Rising/02_World Building/World Map/SectorMaps/White Sector/Sector Canvas.canvas",
-    "Sentinels Rising/02_World Building/World Map/SectorMaps/Red Sector/Equipment/Red Sector Weapons & Armor.canvas"
+    "Sentinels Rising/02_World Building/World Map/SectorMaps/White Sector/Enemies/White Sector Enemies.canvas"
   ]
 }
